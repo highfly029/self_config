@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "curl -H \"Content-Type: application\/json\" -X POST -d '{\"platform\":\"googleplay\",\"data\":{\"kind\": \"\",\"purchaseToken\": \"VBC+zxiag+D671jCbTk9E0nsjBNM\/jfxIg+KNEf9NcL+B07C7jzAs1vor2KRBL65I6p2q7XePZjCRtZDfV0llnPey8AuMLOYnB0u7GtCpUlsBEHzPQviK4CmSMqjtdNDbmE8OxtrnkoNFNhvRAcUZmzlEdswQIfb1FRoGPOQg7QlfpZhgpQrp7V+dG2lLBiJT6KPjF+LD8eJq2EnXO2g1dgY241Vvi4ezBSvIu0Cwd8eZFfs12YIMR6MgAAR0ox8wiM\/oh5TRncP94WyJj1GQROmEKcY1TIbZmhlluqQSzGrEyaxw0QqxGSlUmqymHlBv+zQd61+Sby0xDrx8ugPMQ==\",\"purchaseTimeMillis\": \"12312321\",\"voidedTimeMillis\": \"12321312\",\"orderId\": \"TestIap.1628508228220\",\"voidedSource\": 1,\"voidedReason\": 1}}' \"http:\/\/10.0.3.192:9001\/center\/refund\"",
+    "uid" : "DD021380-5C95-4A19-BA7B-C6F752A0EEC3",
+    "name" : "refund",
+    "keyword" : ""
+  }
+}

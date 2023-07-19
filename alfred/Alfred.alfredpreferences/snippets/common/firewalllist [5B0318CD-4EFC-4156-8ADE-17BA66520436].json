@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "firewall-cmd --list-ports",
+    "uid" : "5B0318CD-4EFC-4156-8ADE-17BA66520436",
+    "name" : "firewalllist",
+    "keyword" : ""
+  }
+}

@@ -1,0 +1,6160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>Lost.x</string>
+	<key>connections</key>
+	<dict>
+		<key>0257C2EC-A7B5-471C-B7F2-2CF3EA9535A1</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5EC4D38E-4B26-4906-93BC-66004EE0DC71</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>02C79E16-57F7-46C9-B5AD-9AC5FF2C41E9</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>EC4EB8F1-FFF7-482E-A891-8558563DAA0E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>0303533C-8FB8-45E3-9B40-9851C0DE9117</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1753E72C-4B70-4D69-B5F9-050FAB750FBF</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>0355105A-16DE-4978-BF4C-EAE23E03B7BB</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5036AC0C-9217-491B-B981-65225F1D1207</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>1B73FCA7-D1DE-4E08-A770-6EADB24496DA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>04C03784-778B-49F5-836E-172FA4AADE97</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>6DB9C2A2-B0B6-4178-9912-E6D5F98EFEE7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>094F18D9-D288-47DF-B20C-65136DD27DA3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>41F87E6A-2C3D-4F60-A4E1-41BAAE141876</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>096FD1E2-7C54-4267-B906-6A674E43D5F5</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2D005FE8-0B66-4660-9090-5ECC3EEBD03C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>0A0A2A5F-C795-424A-9DF3-316F9C502446</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>96EA9BF8-97B8-4638-BEEA-45F0D1C856E4</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>0A56789B-93F4-4240-9C88-2CD2E138FB52</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>FBCA5881-A630-41D0-8765-C6E91026DED3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>0ADB7178-8051-4A9C-B05D-A524BA6A77FE</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>FEBDF65F-BAA5-478F-BA8D-0DFAFA04517B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>0BB21E3D-0BF0-42B9-8C47-92D5A9DEE9E7</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B12777CF-32F0-4528-A663-035B9B23C851</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>0D64EF6D-63E7-451F-8F82-4E8CBAEA6AD2</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>70C8B67D-5FDB-42C0-87FA-CBD668C7DB8C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>135A4798-113C-4269-A3BB-B5350C03062A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F2E3F434-3A52-4E84-9606-B59180623F67</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>15047617-5843-4848-999A-2210F61DDE0B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5E608C96-0DA3-4E90-8C88-DC199DD1F116</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>1753E72C-4B70-4D69-B5F9-050FAB750FBF</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>15047617-5843-4848-999A-2210F61DDE0B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>1ABDDAE9-6C84-488C-AB58-01C7488377B5</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>04C03784-778B-49F5-836E-172FA4AADE97</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>2168B390-8CBE-4EE6-B48E-868B01BDBB8D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E9084B8B-5169-482D-8202-852801C4476F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>21F94A96-6A31-4D0D-B267-556B2227D363</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B1464813-B29A-43B5-8D4B-EE10E85DC121</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>24D2242E-86ED-4C16-852A-E7AA4DBC6DBC</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B12777CF-32F0-4528-A663-035B9B23C851</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>26D72BD9-C152-4A9E-B0E1-971CFE1BFD08</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>4743C7A9-0DC3-4018-814B-E53B7B90F5AC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>2922E4AE-4A53-4D74-9386-0641FF702E9B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>50D48EB7-FE5A-4489-804A-63380DAAD9E8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>2B70D7C3-0850-48D6-A9FD-ECF22FADFAEB</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>4AAFC4B4-FC8A-462B-8BDD-89AD84CCD85C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>2D005FE8-0B66-4660-9090-5ECC3EEBD03C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F2E3F434-3A52-4E84-9606-B59180623F67</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>2FDC22F9-D67A-4C70-8884-04913D5F2333</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>8385942A-2BE2-45CF-8D11-98A8624C1E8C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>324DF8DB-8666-4BEA-8AC7-416E38353E7F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0257C2EC-A7B5-471C-B7F2-2CF3EA9535A1</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>340FF459-8CD1-4183-8090-F6F1CD1CE0F6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F2E3F434-3A52-4E84-9606-B59180623F67</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>3419EB1A-236B-4173-8A70-87FC8F24ABCD</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>26D72BD9-C152-4A9E-B0E1-971CFE1BFD08</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>358C0208-8171-44B8-B893-266B2F45276A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0355105A-16DE-4978-BF4C-EAE23E03B7BB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>3B6ECC25-39BA-4D0A-BD94-DD26019FD616</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>647DA5E4-2190-4C04-9FD9-6C5F10A1C3A8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>3D03F288-2056-4FB3-B575-01D47F4B5BAA</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>C9C9F02B-B43E-4473-8E8F-A60772A055EA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>429B21B5-A025-44A5-A406-0589746892CD</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>91826A29-A102-48EE-9E84-6E883B48D896</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>45AD2D5A-4D27-41DF-8E51-469D679145F9</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>135A4798-113C-4269-A3BB-B5350C03062A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>466890B4-FC61-46F2-B42C-430D3ED28447</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A99703E1-27F8-42DB-9734-6C50D89D682D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>4743C7A9-0DC3-4018-814B-E53B7B90F5AC</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B12777CF-32F0-4528-A663-035B9B23C851</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>499BEE5F-CCE4-480B-B717-85E57F9F63DB</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E4B472C0-6C12-4002-B856-BECFB8A57C62</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>49FDEE39-41AD-4551-A7DB-29D993EBE9A7</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>686F31DF-0AF9-4C8C-B659-D2173A8EC234</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>4AAFC4B4-FC8A-462B-8BDD-89AD84CCD85C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>41F87E6A-2C3D-4F60-A4E1-41BAAE141876</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>4D5D7214-3DBC-41EC-BF9E-33C1AAA41FB8</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>340FF459-8CD1-4183-8090-F6F1CD1CE0F6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>4E3F81CB-17EE-4B30-AEBF-FC9A49A688DE</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>324DF8DB-8666-4BEA-8AC7-416E38353E7F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>4F0F3CCC-9FA2-4C61-B63D-59A44B84C689</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>9F87EBFF-954A-48B2-B026-70DA5FA7307E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>507B05F9-0516-4A3D-BCE4-047C89E8B06D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>FA8E13C0-F419-4681-9FDE-59273E56ADAA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>50D48EB7-FE5A-4489-804A-63380DAAD9E8</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>ED8F64EB-1AD8-41DD-8ABE-44534838141E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>516F0624-6DE1-4EDE-BC22-075A54239867</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2168B390-8CBE-4EE6-B48E-868B01BDBB8D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>52EE1CA9-85FF-480C-92C8-49CA682EE87C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>83D7962C-1E6B-499C-9528-57D6C5B419AC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>5525B813-7F8B-4B1E-9569-D38CBD8AE6CC</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>6A720AEB-D9D6-4F7C-ADD7-E523A000F564</string>
+				<key>modifiers</key>
+				<integer>1048576</integer>
+				<key>modifiersubtext</key>
+				<string>open file</string>
+				<key>vitoclose</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>00138119-C33E-40F1-89DA-F5351697BC05</string>
+				<key>modifiers</key>
+				<integer>524288</integer>
+				<key>modifiersubtext</key>
+				<string>reveal in finder</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>A3464649-64E2-4A61-BF70-A9B0588140CF</string>
+				<key>modifiers</key>
+				<integer>262144</integer>
+				<key>modifiersubtext</key>
+				<string>replace trunk</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>7C4BBA29-8105-415D-95A8-A2A8D804A702</string>
+				<key>modifiers</key>
+				<integer>131072</integer>
+				<key>modifiersubtext</key>
+				<string>replace release</string>
+				<key>vitoclose</key>
+				<true/>
+			</dict>
+		</array>
+		<key>580273B9-22DC-4768-9C57-9E916234E387</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>8C39565B-5566-42A4-A602-091AB4F0475D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>5872A2BC-A06C-428E-9A8C-3103EF93AE5B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2FDC22F9-D67A-4C70-8884-04913D5F2333</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>5A9994E5-D5A7-48A8-97B7-1FC03AAD38FF</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>02C79E16-57F7-46C9-B5AD-9AC5FF2C41E9</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>5B9298E4-9E2A-48CD-A5ED-16515351069E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>3419EB1A-236B-4173-8A70-87FC8F24ABCD</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>5E608C96-0DA3-4E90-8C88-DC199DD1F116</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>096FD1E2-7C54-4267-B906-6A674E43D5F5</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>5EB85D36-CEF6-4AF2-BD0E-1B5B9C0BD727</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>358C0208-8171-44B8-B893-266B2F45276A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>5EC4D38E-4B26-4906-93BC-66004EE0DC71</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F2E3F434-3A52-4E84-9606-B59180623F67</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>686F31DF-0AF9-4C8C-B659-D2173A8EC234</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E0760F5D-98DF-4DC8-9DB3-332738B743F8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6B9A3E3A-9EC7-4DB3-96DC-BE06718AC6A0</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>49FDEE39-41AD-4551-A7DB-29D993EBE9A7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6C5D8145-9270-4AE6-8F39-742926A0709E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>8044DA37-6FDC-4735-ADF2-86BD6C96DD8C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6C6D1D74-5CBC-475B-9347-8D19FC83EE5A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D1ABAE73-2D6F-4327-AE32-CBA0805AD2A0</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6DB9C2A2-B0B6-4178-9912-E6D5F98EFEE7</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>EDD890BD-BD25-4FCA-8673-7384FF6FA4FE</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6F1D7CD1-883D-4E5F-951B-23A815831E1C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>8A3E19AA-DB86-4A01-A2E8-A7AB25396469</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6F3A93F8-E627-4105-AFAA-160C7B6087B1</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>EEFF475D-BD2F-48AA-9DC8-2F3B4267390A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>707F558D-67A7-44FA-9C3B-C724B86D230E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>ED8F64EB-1AD8-41DD-8ABE-44534838141E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>70C8B67D-5FDB-42C0-87FA-CBD668C7DB8C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>818FD033-A8FB-450A-827D-8B80DC548390</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>70FF5488-9461-4F23-8D46-B4A0CA9E588B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B4C391AC-845C-4169-A8C4-B91674F570C6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>74DA580F-54D3-44D0-BF28-9850E37C2D0B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0BB21E3D-0BF0-42B9-8C47-92D5A9DEE9E7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>78F6F075-333C-4F6F-ACD7-7F687D71C366</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>4F0F3CCC-9FA2-4C61-B63D-59A44B84C689</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>79BFF2AE-86C7-43C8-A5CF-359976E33F3A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>6ADC2719-FB2B-449E-AE12-6CA7E71133CC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>8385942A-2BE2-45CF-8D11-98A8624C1E8C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B29A098E-EB4F-441D-8F16-7A35B04A30B7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>83D7962C-1E6B-499C-9528-57D6C5B419AC</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2922E4AE-4A53-4D74-9386-0641FF702E9B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>8516EEE6-6BE0-4F7E-BC93-BC5EE0034ACB</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0A56789B-93F4-4240-9C88-2CD2E138FB52</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>8A3E19AA-DB86-4A01-A2E8-A7AB25396469</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5525B813-7F8B-4B1E-9569-D38CBD8AE6CC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>8C39565B-5566-42A4-A602-091AB4F0475D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0D64EF6D-63E7-451F-8F82-4E8CBAEA6AD2</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>91826A29-A102-48EE-9E84-6E883B48D896</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>74DA580F-54D3-44D0-BF28-9850E37C2D0B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>93430EEC-9BDC-416F-A2F2-35B479D6AA42</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0303533C-8FB8-45E3-9B40-9851C0DE9117</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>93631B29-9CDC-48AC-A77C-E6A3E06F7F9E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>50B974E7-DFE5-4FDB-B6A9-B17DD65F3FB9</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>96EA9BF8-97B8-4638-BEEA-45F0D1C856E4</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>DD69B5F1-FE91-4B20-88D0-7713D645F109</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>0ADB7178-8051-4A9C-B05D-A524BA6A77FE</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>93430EEC-9BDC-416F-A2F2-35B479D6AA42</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>79BFF2AE-86C7-43C8-A5CF-359976E33F3A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>6F3A93F8-E627-4105-AFAA-160C7B6087B1</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>DA90356B-C967-462A-9D30-827D92873E6B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>5872A2BC-A06C-428E-9A8C-3103EF93AE5B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>6C6D1D74-5CBC-475B-9347-8D19FC83EE5A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>6C5D8145-9270-4AE6-8F39-742926A0709E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>CFAFF078-AB01-4118-96EE-7986EED91C3A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>B098A1B0-6C5E-46FD-955E-878F38154F35</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>6B9A3E3A-9EC7-4DB3-96DC-BE06718AC6A0</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>499BEE5F-CCE4-480B-B717-85E57F9F63DB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>78F6F075-333C-4F6F-ACD7-7F687D71C366</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>52EE1CA9-85FF-480C-92C8-49CA682EE87C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>429B21B5-A025-44A5-A406-0589746892CD</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>5B9298E4-9E2A-48CD-A5ED-16515351069E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>21F94A96-6A31-4D0D-B267-556B2227D363</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>5A9994E5-D5A7-48A8-97B7-1FC03AAD38FF</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>580273B9-22DC-4768-9C57-9E916234E387</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>E195663A-B302-4EC9-9E77-8D2FEB53D920</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>516F0624-6DE1-4EDE-BC22-075A54239867</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>6F1D7CD1-883D-4E5F-951B-23A815831E1C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>507B05F9-0516-4A3D-BCE4-047C89E8B06D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>9F87EBFF-954A-48B2-B026-70DA5FA7307E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>707F558D-67A7-44FA-9C3B-C724B86D230E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A5E143A5-59B4-4EF3-B011-42739EC61307</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>094F18D9-D288-47DF-B20C-65136DD27DA3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A99703E1-27F8-42DB-9734-6C50D89D682D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>BF30AB43-9822-48DC-89B6-D04179874227</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>AA2FD292-E0B7-49CF-A283-D73BF9AF008F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>3B6ECC25-39BA-4D0A-BD94-DD26019FD616</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>B098A1B0-6C5E-46FD-955E-878F38154F35</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>3D03F288-2056-4FB3-B575-01D47F4B5BAA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>B12777CF-32F0-4528-A663-035B9B23C851</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>175B506F-BB17-433C-ABC5-2FB8C77EE88E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>107558C0-1645-4569-860A-6625B0C41980</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>B1464813-B29A-43B5-8D4B-EE10E85DC121</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>70FF5488-9461-4F23-8D46-B4A0CA9E588B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>B29A098E-EB4F-441D-8F16-7A35B04A30B7</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F0FB8701-DEFF-4058-9582-CC444AB7CBF8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>B4C391AC-845C-4169-A8C4-B91674F570C6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B12777CF-32F0-4528-A663-035B9B23C851</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>B8ECE78C-718A-4F29-AC7B-1D0B427C2A7B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>24D2242E-86ED-4C16-852A-E7AA4DBC6DBC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>BF30AB43-9822-48DC-89B6-D04179874227</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5290814F-7F02-49BA-ADF6-1D7053BFC16F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>C7BE9A6E-266D-4B80-A6EB-C1D3655C7BE0</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>7C054D8F-C323-4F44-AC53-D74EA102466B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>1B73FCA7-D1DE-4E08-A770-6EADB24496DA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>C9C9F02B-B43E-4473-8E8F-A60772A055EA</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>C7BE9A6E-266D-4B80-A6EB-C1D3655C7BE0</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>CFAFF078-AB01-4118-96EE-7986EED91C3A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5EB85D36-CEF6-4AF2-BD0E-1B5B9C0BD727</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D1ABAE73-2D6F-4327-AE32-CBA0805AD2A0</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E7DD2610-2F14-478D-BC2F-DBE644733752</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D70C5AB1-2933-4812-8035-86668C516CAC</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B8ECE78C-718A-4F29-AC7B-1D0B427C2A7B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D76D1E83-EE76-4D7A-B504-B84887B31DC4</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0A4B3EFD-B2B5-41CC-AABC-1B40FDA141EB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>DA90356B-C967-462A-9D30-827D92873E6B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1ABDDAE9-6C84-488C-AB58-01C7488377B5</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>DD69B5F1-FE91-4B20-88D0-7713D645F109</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D70C5AB1-2933-4812-8035-86668C516CAC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E0760F5D-98DF-4DC8-9DB3-332738B743F8</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1B73FCA7-D1DE-4E08-A770-6EADB24496DA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>C947E893-B6C3-4D67-A3FC-DE18A050F68D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E195663A-B302-4EC9-9E77-8D2FEB53D920</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>466890B4-FC61-46F2-B42C-430D3ED28447</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E4B472C0-6C12-4002-B856-BECFB8A57C62</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>AA2FD292-E0B7-49CF-A283-D73BF9AF008F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E7DD2610-2F14-478D-BC2F-DBE644733752</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>4E3F81CB-17EE-4B30-AEBF-FC9A49A688DE</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E9084B8B-5169-482D-8202-852801C4476F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D76D1E83-EE76-4D7A-B504-B84887B31DC4</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>EC4EB8F1-FFF7-482E-A891-8558563DAA0E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>93631B29-9CDC-48AC-A77C-E6A3E06F7F9E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>ED8F64EB-1AD8-41DD-8ABE-44534838141E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1B73FCA7-D1DE-4E08-A770-6EADB24496DA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>EDD890BD-BD25-4FCA-8673-7384FF6FA4FE</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>4D5D7214-3DBC-41EC-BF9E-33C1AAA41FB8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>F0FB8701-DEFF-4058-9582-CC444AB7CBF8</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>45AD2D5A-4D27-41DF-8E51-469D679145F9</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>hedley.x</string>
+	<key>description</key>
+	<string></string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>Lost Release</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string>Think about it, carefully</string>
+				<key>text</key>
+				<string>确认test对齐？</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>B8ECE78C-718A-4F29-AC7B-1D0B427C2A7B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>export PATH=$PATH:/opt/homebrew/bin/:/usr/local/bin/:/usr/bin/
+cd ${TRUNK_PATH}/Server/Source/Code/develop/common
+svn propdel svn:externals 'commonConfig'
+svn propset svn:externals 'commonConfig http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Server/Source/Framework/core/common/commonConfig' .
+svn up
+
+cd ./data
+svn propdel svn:externals 'shineData'
+svn propdel svn:externals 'commonData'
+cat &gt; /tmp/setmp &lt;&lt; EOF
+shineData http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Server/Source/Framework/core/common/data/shineData
+commonData http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Server/Source/Framework/core/common/data/commonData
+EOF
+svn propset svn:externals -F /tmp/setmp .
+svn up
+
+cd ../../docs
+svn propdel svn:externals 'commonDocs'
+svn propset svn:externals 'commonDocs http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Server/Source/Framework/core/docs' .
+svn up
+
+cd ../server
+svn propdel svn:externals 'tools'
+svn propdel svn:externals 'server_config'
+svn propdel svn:externals 'server_save'
+cat &gt; /tmp/setmp &lt;&lt; EOF
+tools http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Server/Source/Framework/core/server/tools
+server_config http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Common/server_config
+server_save http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Common/server_save
+EOF
+svn propset svn:externals -F /tmp/setmp .
+svn up
+
+cd ./bin
+svn propdel svn:externals 'LangRes'
+svn propset svn:externals 'LangRes http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Client/Resource/LangRes' .
+svn up
+
+cd ../clientProject
+svn propdel svn:externals 'commonClient'
+svn propset svn:externals 'commonClient http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Server/Source/Framework/core/server/clientProject/commonClient' .
+svn up
+
+cd ../gmClientProject
+svn propdel svn:externals 'commonGMClient'
+svn propset svn:externals 'commonGMClient http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Server/Source/Framework/core/server/gmClientProject/commonGMClient' .
+svn up
+
+
+cd ../toolProject
+svn propdel svn:externals 'commonTool'
+svn propdel svn:externals 'shine8'
+svn propdel svn:externals 'shineTool'
+cat &gt; /tmp/setmp &lt;&lt; EOF
+commonTool http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Server/Source/Framework/core/server/toolProject/commonTool
+shine8 http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Server/Source/Framework/core/server/toolProject/shine8
+shineTool http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Server/Source/Framework/core/server/toolProject/shineTool
+EOF
+svn propset svn:externals -F /tmp/setmp .
+svn up
+
+
+cd ../project
+svn propdel svn:externals 'shine'
+svn propdel svn:externals 'commonBase'
+svn propdel svn:externals 'commonGame'
+svn propdel svn:externals 'commonCenter'
+svn propdel svn:externals 'commonLogin'
+svn propdel svn:externals 'commonManager'
+cat &gt; /tmp/setmp &lt;&lt; EOF
+shine http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Server/Source/Framework/core/server/project/shine
+commonBase http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Server/Source/Framework/core/server/project/commonBase
+commonGame http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Server/Source/Framework/core/server/project/commonGame
+commonCenter http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Server/Source/Framework/core/server/project/commonCenter
+commonLogin http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Server/Source/Framework/core/server/project/commonLogin
+commonManager http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Server/Source/Framework/core/server/project/commonManager
+EOF
+svn propset svn:externals -F /tmp/setmp .
+svn up
+
+cd ./game/resource
+svn propdel svn:externals 'proto'
+svn propset svn:externals 'proto http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Common/protobuf/Messages' .
+
+svn propdel svn:externals 'proto3'
+svn propset svn:externals 'proto3 http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Common/nodegraph/protocol' .</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>24D2242E-86ED-4C16-852A-E7AA4DBC6DBC</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>python {var:CN_PATH}/Common/tool/auto_check_deploy.py</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.terminalcommand</string>
+			<key>uid</key>
+			<string>FEBDF65F-BAA5-478F-BA8D-0DFAFA04517B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>cb_testbr</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>DD69B5F1-FE91-4B20-88D0-7713D645F109</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>1</integer>
+				<key>matchstring</key>
+				<string>.*</string>
+				<key>regexcaseinsensitive</key>
+				<false/>
+				<key>regexmultiline</key>
+				<false/>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>D70C5AB1-2933-4812-8035-86668C516CAC</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>dts_cn</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>0ADB7178-8051-4A9C-B05D-A524BA6A77FE</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>export PATH=$PATH:/opt/homebrew/bin/:/usr/bin/
+
+cd {var:FUNC_PATH}/Server/Source/Code/develop/server/tools/jar
+
+{var:JAVA} -jar -Dfile.encoding=UTF-8 --illegal-access=deny toolProject.jar configTOCvs 1
+
+{var:JAVA} -jar -Dfile.encoding=UTF-8 --illegal-access=deny toolProject.jar configTOCvs
+
+{var:JAVA} -jar -Dfile.encoding=UTF-8 --illegal-access=deny toolProject.jar configExport true
+
+#{var:JAVA} -jar  -Dfile.encoding=UTF-8 --illegal-access=deny toolProject.jar configExport true 0 {var:ext}
+
+rm -rf {var:FUNC_PATH}/Server/Source/Code/develop/client_clean/source/common/config.bin
+
+cp {var:FUNC_PATH}/Common/client_config/config.bin {var:FUNC_PATH}/Server/Source/Code/develop/client_clean/source/common/
+
+for file in {var:FUNC_PATH}/Common/client_config/config*.bin; do cp $file {var:FUNC_PATH}/Server/Source/Code/develop/client_clean/source/common/; done
+
+cd {var:FUNC_PATH}/Common
+
+'{var:p}'/crc_check.pl
+
+msg=`svn log -l 100 -v --search xlsx | sed -n '/LOST/{p; :loop n; /---------/q; p; b loop}'`
+
+echo $msg"- config export"| pbcopy
+
+echo y | xargs rm -rf {var:FUNC_PATH}/Common/xlsx_config/
+
+svn revert --recursive {var:FUNC_PATH}/Common/xlsx_config/</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.terminalcommand</string>
+			<key>uid</key>
+			<string>2D005FE8-0B66-4660-9090-5ECC3EEBD03C</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>subtext</key>
+				<string>e.g. 2 -&gt; gameConfig_2 -&gt; config_2.bin</string>
+				<key>text</key>
+				<string>版本后缀</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>1753E72C-4B70-4D69-B5F9-050FAB750FBF</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>echo -n `pwd`</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>5E608C96-0DA3-4E90-8C88-DC199DD1F116</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>cd {var:PTR_PATH}/Server/Source/Code/develop/server/tools/jar
+
+{var:JAVA} -jar -Dfile.encoding=UTF-8 --illegal-access=deny toolProject.jar dataExport true</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.terminalcommand</string>
+			<key>uid</key>
+			<string>6ADC2719-FB2B-449E-AE12-6CA7E71133CC</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>ext</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>15047617-5843-4848-999A-2210F61DDE0B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>ce_func</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>93430EEC-9BDC-416F-A2F2-35B479D6AA42</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>p</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>096FD1E2-7C54-4267-B906-6A674E43D5F5</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>1</integer>
+				<key>matchstring</key>
+				<string>.*</string>
+				<key>regexcaseinsensitive</key>
+				<false/>
+				<key>regexmultiline</key>
+				<false/>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>0303533C-8FB8-45E3-9B40-9851C0DE9117</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>de</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>79BFF2AE-86C7-43C8-A5CF-359976E33F3A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>export PATH=$PATH:/opt/homebrew/bin/:/usr/bin/
+
+cd {var:TRUNK_PATH}/Server/Source/Code/develop/server/tools/jar
+
+{var:JAVA} -jar -Dfile.encoding=UTF-8 --illegal-access=deny toolProject.jar configTOCvs 1
+
+{var:JAVA} -jar -Dfile.encoding=UTF-8 --illegal-access=deny toolProject.jar configTOCvs
+
+{var:JAVA} -jar -Dfile.encoding=UTF-8 --illegal-access=deny toolProject.jar configExport true
+
+#{var:JAVA} -jar  -Dfile.encoding=UTF-8 --illegal-access=deny toolProject.jar configExport true 0 {var:ext}
+
+rm -rf {var:TRUNK_PATH}/Server/Source/Code/develop/client_clean/source/common/config.bin
+
+cp {var:TRUNK_PATH}/Common/client_config/config.bin {var:TRUNK_PATH}/Server/Source/Code/develop/client_clean/source/common/
+
+for file in {var:TRUNK_PATH}/Common/client_config/config*.bin; do cp $file {var:TRUNK_PATH}/Server/Source/Code/develop/client_clean/source/common/; done
+
+cd {var:TRUNK_PATH}/Common
+
+#'{var:p}'/crc_check.pl
+
+msg=`svn log -l 100 -v --search xlsx | sed -n '/LOST/{p; :loop n; /---------/q; p; b loop}'`
+
+echo $msg"- config export"| pbcopy
+
+#echo y | xargs rm -rf {var:TRUNK_PATH}/Common/xlsx_config/
+
+#svn revert --recursive {var:TRUNK_PATH}/Common/xlsx_config/
+</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.terminalcommand</string>
+			<key>uid</key>
+			<string>340FF459-8CD1-4183-8090-F6F1CD1CE0F6</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>echo -n `pwd`</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>EDD890BD-BD25-4FCA-8673-7384FF6FA4FE</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>subtext</key>
+				<string>e.g. 2 -&gt; gameConfig_2 -&gt; config_2.bin</string>
+				<key>text</key>
+				<string>版本后缀</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>04C03784-778B-49F5-836E-172FA4AADE97</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>export PATH=$PATH:/opt/homebrew/bin/:/usr/bin/
+
+cd {var:CN_PATH}/Server/Source/Code/develop/server/tools/jar
+
+{var:JAVA} -jar -Dfile.encoding=UTF-8 --illegal-access=deny toolProject.jar configExport true
+
+
+rm -rf {var:CN_PATH}/Server/Source/Code/develop/client_clean/source/common/config.bin
+
+cp {var:CN_PATH}/Common/client_config/config.bin {var:CN_PATH}/Server/Source/Code/develop/client_clean/source/common/
+
+
+cd {var:CN_PATH}/Common
+
+msg=`svn log -l 100 -v --search xlsx | sed -n '/LOST/{p; :loop n; /---------/q; p; b loop}'`
+
+echo $msg"- config export"| pbcopy</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.terminalcommand</string>
+			<key>uid</key>
+			<string>EEFF475D-BD2F-48AA-9DC8-2F3B4267390A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>cecn</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>6F3A93F8-E627-4105-AFAA-160C7B6087B1</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>1</integer>
+				<key>matchstring</key>
+				<string>.*</string>
+				<key>regexcaseinsensitive</key>
+				<false/>
+				<key>regexmultiline</key>
+				<false/>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>1ABDDAE9-6C84-488C-AB58-01C7488377B5</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>ext</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>6DB9C2A2-B0B6-4178-9912-E6D5F98EFEE7</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>p</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>4D5D7214-3DBC-41EC-BF9E-33C1AAA41FB8</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>ce_trunk</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>DA90356B-C967-462A-9D30-827D92873E6B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alignment</key>
+				<integer>0</integer>
+				<key>backgroundcolor</key>
+				<string></string>
+				<key>fadespeed</key>
+				<integer>0</integer>
+				<key>fillmode</key>
+				<integer>0</integer>
+				<key>font</key>
+				<string></string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>largetypetext</key>
+				<string>ok</string>
+				<key>textcolor</key>
+				<string></string>
+				<key>wrapat</key>
+				<integer>50</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.largetype</string>
+			<key>uid</key>
+			<string>F2E3F434-3A52-4E84-9606-B59180623F67</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>export PATH=$PATH:/opt/homebrew/bin/:/usr/local/bin/:/usr/bin/
+cd {var:PTR_PATH}/Server/Source/Code/develop/server/tools/jar
+
+{var:JAVA} -jar -Dfile.encoding=UTF-8 --illegal-access=deny toolProject.jar configTOCvs
+
+{var:JAVA} -jar -Dfile.encoding=UTF-8 --illegal-access=deny toolProject.jar configExport true 0 {var:ext}
+
+rm -rf {var:PTR_PATH}/Server/Source/Code/develop/client_clean/source/common/config.bin
+
+cp {var:PTR_PATH}/Common/client_config/config.bin {var:PTR_PATH}/Server/Source/Code/develop/client_clean/source/common/
+
+for file in {var:PTR_PATH}/Common/client_config/config*.bin; do cp $file {var:PTR_PATH}/Server/Source/Code/develop/client_clean/source/common/; done
+
+cd {var:PTR_PATH}/Common
+echo y | xargs rm -rf xlsx_config/
+
+svn revert --recursive xlsx_config/
+
+{var:p}/crc_check.pl
+
+
+</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.terminalcommand</string>
+			<key>uid</key>
+			<string>135A4798-113C-4269-A3BB-B5350C03062A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>echo -n `pwd`</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>F0FB8701-DEFF-4058-9582-CC444AB7CBF8</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>subtext</key>
+				<string>e.g. 2 -&gt; gameConfig_2 -&gt; config_2.bin</string>
+				<key>text</key>
+				<string>版本后缀</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>8385942A-2BE2-45CF-8D11-98A8624C1E8C</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>1</integer>
+				<key>matchstring</key>
+				<string>.*</string>
+				<key>regexcaseinsensitive</key>
+				<false/>
+				<key>regexmultiline</key>
+				<false/>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>2FDC22F9-D67A-4C70-8884-04913D5F2333</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>ext</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>B29A098E-EB4F-441D-8F16-7A35B04A30B7</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>p</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>45AD2D5A-4D27-41DF-8E51-469D679145F9</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>ce_ptr</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>5872A2BC-A06C-428E-9A8C-3103EF93AE5B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>ce</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>6C6D1D74-5CBC-475B-9347-8D19FC83EE5A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>echo -n `pwd`</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>324DF8DB-8666-4BEA-8AC7-416E38353E7F</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>export PATH=$PATH:/opt/homebrew/bin/:/usr/bin/
+
+cd {var:RELEASE_PATH}/Server/Source/Code/develop/server/tools/jar
+
+{var:JAVA} -jar -Dfile.encoding=UTF-8 --illegal-access=deny toolProject.jar configTOCvs
+
+#{var:JAVA} -jar -Dfile.encoding=UTF-8 --illegal-access=deny toolProject.jar configExport true
+
+{var:JAVA} -jar  -Dfile.encoding=UTF-8 --illegal-access=deny toolProject.jar configExport true 0 {var:ext}
+
+rm -rf {var:RELEASE_PATH}/Server/Source/Code/develop/client_clean/source/common/config.bin
+
+cp {var:RELEASE_PATH}/Common/client_config/config.bin {var:RELEASE_PATH}/Server/Source/Code/develop/client_clean/source/common/
+
+for file in {var:RELEASE_PATH}/Common/client_config/config*.bin; do cp $file {var:RELEASE_PATH}/Server/Source/Code/develop/client_clean/source/common/; done
+
+
+cd {var:RELEASE_PATH}/Common
+echo y | xargs rm -rf xlsx_config/
+
+svn revert --recursive xlsx_config/
+
+{var:p}/crc_check.pl</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.terminalcommand</string>
+			<key>uid</key>
+			<string>5EC4D38E-4B26-4906-93BC-66004EE0DC71</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>subtext</key>
+				<string>e.g. 2 -&gt; gameConfig_2 -&gt; config_2.bin</string>
+				<key>text</key>
+				<string>版本后缀</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>E7DD2610-2F14-478D-BC2F-DBE644733752</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>1</integer>
+				<key>matchstring</key>
+				<string>.*</string>
+				<key>regexcaseinsensitive</key>
+				<false/>
+				<key>regexmultiline</key>
+				<false/>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>D1ABAE73-2D6F-4327-AE32-CBA0805AD2A0</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>ext</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>4E3F81CB-17EE-4B30-AEBF-FC9A49A688DE</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>p</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>0257C2EC-A7B5-471C-B7F2-2CF3EA9535A1</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>cd {var:PTR_PATH}/Server/Source/Code/develop/server/tools/jar
+
+{var:JAVA} -jar -Dfile.encoding=UTF-8 CheckGenerateCodeTool.jar</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.terminalcommand</string>
+			<key>uid</key>
+			<string>8044DA37-6FDC-4735-ADF2-86BD6C96DD8C</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>cdr</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>6C5D8145-9270-4AE6-8F39-742926A0709E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>lsr</string>
+				<key>subtext</key>
+				<string>python utils etc..</string>
+				<key>text</key>
+				<string>快捷入口 RELEASE</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>0A0A2A5F-C795-424A-9DF3-316F9C502446</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<true/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Patch Merge Done.</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>5036AC0C-9217-491B-B981-65225F1D1207</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>export PATH=$PATH:/opt/homebrew/bin/:/usr/local/bin
+
+query=$1
+
+echo -n $query
+
+#要将$a分割开，先存储旧的分隔符
+OLD_IFS="$IFS"
+
+#设置分隔符
+IFS=" " 
+
+#如下会自动分隔
+arr=($query)
+
+cd ${PTR_PATH}/Server
+svn up -q
+for s in ${arr[@]}
+do
+#echo "$s"
+pre_version=$[s-1]
+svn merge -q -r$pre_version:$s http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Server
+done
+
+
+
+author=`svn log  -r $s   http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Server | perl -lne '/^r\d+ / and @arr = split (" ", $_) and print @arr[2]'`
+
+msg=`svn log  -r $s   http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Server | sed -n '/LOST/,/-----------/p' | sed -n '/-------/d;p'`
+
+echo "- "$msg"- by "$author</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>0355105A-16DE-4978-BF4C-EAE23E03B7BB</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string>e.g. 10037 10048</string>
+				<key>text</key>
+				<string>用空格分隔版本号</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>358C0208-8171-44B8-B893-266B2F45276A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>pa_ptr</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>CFAFF078-AB01-4118-96EE-7986EED91C3A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>1</integer>
+				<key>matchstring</key>
+				<string>.*</string>
+				<key>regexcaseinsensitive</key>
+				<false/>
+				<key>regexmultiline</key>
+				<false/>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>5EB85D36-CEF6-4AF2-BD0E-1B5B9C0BD727</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string>e.g. 10037 10048</string>
+				<key>text</key>
+				<string>用空格分隔版本号</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>C9C9F02B-B43E-4473-8E8F-A60772A055EA</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<true/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Patch Merge Done.</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>7C054D8F-C323-4F44-AC53-D74EA102466B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>export PATH=$PATH:/opt/homebrew/bin/:/usr/bin/
+
+query=$1
+
+echo -n $query
+
+#要将$a分割开，先存储旧的分隔符
+OLD_IFS="$IFS"
+
+#设置分隔符
+IFS=" " 
+
+#如下会自动分隔
+arr=($query)
+
+cd ${CN_PATH}/Server
+svn up -q
+for s in ${arr[@]}
+do
+pre_version=$[s-1]
+svn merge -q -r$pre_version:$s http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Server
+done
+
+
+
+author=`svn log  -r $s   http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Server | perl -lne '/^r\d+ / and @arr = split (" ", $_) and print @arr[2]'`
+
+msg=`svn log  -r $s   http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Server | sed -n '/LOST/,/-----------/p' | sed -n '/-------/d;p'`
+
+echo "- "$msg"- by "$author</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>C7BE9A6E-266D-4B80-A6EB-C1D3655C7BE0</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>pa_cn</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>B098A1B0-6C5E-46FD-955E-878F38154F35</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>1</integer>
+				<key>matchstring</key>
+				<string>.*</string>
+				<key>regexcaseinsensitive</key>
+				<false/>
+				<key>regexmultiline</key>
+				<false/>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>3D03F288-2056-4FB3-B575-01D47F4B5BAA</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>fixedorder</key>
+				<false/>
+				<key>items</key>
+				<string>[{"title":"config export","arg":"ce","subtitle":"export xlsm fill to config.bin etc.."},{"title":"check data record","arg":"cdr","subtitle":"notice H cell.."},{"title":"merge from trunk","arg":"pa","subtitle":"合并分支版本补丁"},{"title":"svn xml check","arg":"sxc","subtitle":"sdiff old&lt;---&gt;new"},{"title":"config export CN","arg":"cecn","subtitle":"export xlsm fill to config.bin etc.."},{"title":"data export","arg":"de","subtitle":"export data project to generate interface etc.."},{"title":"hot version","arg":"hv","subtitle":"config setting.xml"},{"title":"export online jfr","arg":"jfr","subtitle":"to \/tmp\/online.jfr"},{"title":"merge from trunk cn","arg":"pa_cn","subtitle":"合并中国区版本补丁"},{"title":"svn xml check column","arg":"sxch","subtitle":"new column check"},{"title":"hot version ptr","arg":"hv_ptr","subtitle":"config setting.xml"},{"title":"config export ptr","arg":"ce_ptr","subtitle":"export xlsm fill to config.bin etc.."},{"title":"merge from trunk ptr","arg":"pa_ptr","subtitle":"合并分支版本补丁"},{"title":"create branches sync with ptr","arg":"bsptr","subtitle":"branches_ptr --&gt; branches"},{"title":"create branches ptr sync with trunk","arg":"cb_ptrst","subtitle":"trunk --&gt; branches_ptr"},{"title":"deploy cn server","arg":"dts_cn","subtitle":"10.0.3.192"},{"title":"open xlsx ptr","arg":"xlsx_ptr","subtitle":"in xlsx_config"},{"title":"merge from trunk ptr config","arg":"pa_ptr_c","subtitle":"合并分支版本补丁"},{"title":"lang sync","arg":"lang","subtitle":"branches_ptr --&gt; branches"},{"title":"merge from trunk config","arg":"pa_c","subtitle":"合并分支版本补丁"},{"title":"create branches func with trunk","arg":"cb_funcbr","subtitle":"trunk--&gt;func"},{"title":"create branches test","arg":"cb_testbr","subtitle":"trunk--&gt;test"},{"title":"config export func","arg":"ce_func","subtitle":"export xlsx to config.bin"},{"title":"config export trunk","arg":"ce_trunk","subtitle":"export xlsx to config.bin"}]</string>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Online operations may slower...</string>
+				<key>title</key>
+				<string>Select server operation.</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.listfilter</string>
+			<key>uid</key>
+			<string>96EA9BF8-97B8-4638-BEEA-45F0D1C856E4</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>1B73FCA7-D1DE-4E08-A770-6EADB24496DA</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<true/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Patch Merge Done.</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>C947E893-B6C3-4D67-A3FC-DE18A050F68D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>export PATH=$PATH:/opt/homebrew/bin/:/usr/local/bin
+
+query=$1
+
+echo -n $query
+
+#要将$a分割开，先存储旧的分隔符
+OLD_IFS="$IFS"
+
+#设置分隔符
+IFS=" " 
+
+#如下会自动分隔
+arr=($query)
+
+
+# lost_release-&gt;lost_tag
+cd ${RELEASE_PATH}/Server
+svn up -q
+for s in ${arr[@]}
+do
+pre_version=$[s-1]
+svn merge -q -r$pre_version:$s http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Server
+done
+
+author=`svn log  -r $s   http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Server | perl -lne '/^r\d+ / and @arr = split (" ", $_) and print @arr[2]'`
+
+msg=`svn log  -r $s   http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Server | sed -n '/LOST/,/-----------/p' | sed -n '/-------/d;p'`
+
+echo "- "$msg"- by "$author</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>E0760F5D-98DF-4DC8-9DB3-332738B743F8</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string>e.g. 10037 10048</string>
+				<key>text</key>
+				<string>用空格分隔版本号</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>686F31DF-0AF9-4C8C-B659-D2173A8EC234</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>1</integer>
+				<key>matchstring</key>
+				<string>.*</string>
+				<key>regexcaseinsensitive</key>
+				<false/>
+				<key>regexmultiline</key>
+				<false/>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>49FDEE39-41AD-4551-A7DB-29D993EBE9A7</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>pa</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>6B9A3E3A-9EC7-4DB3-96DC-BE06718AC6A0</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>##  cd /Users/hedley/Documents/workspace/lost_release/Common
+
+##  svn log --search yumiao  -l 100 -v
+
+##  svn log --verbose -r 97771
+
+
+
+export LANG="en_US.UTF-8"
+
+p="/Users/hedley/Desktop/dump/excel-check"
+
+url="http://yandeli@svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Common/xlsx_config/gameConfig/"
+
+output="/Users/hedley/.lost/.log/temp"
+
+cd /Users/hedley/Documents/workspace/lost_ptr/Common/xlsx_config/gameConfig
+
+query=$1;
+
+arr=(${query// / })
+
+for vesion in ${arr[@]}; do
+
+svn log --verbose -r $vesion &gt;&gt; $output
+
+for file in `svn log --verbose -r $vesion | grep 'xlsx$' | awk '{print $NF}' `; do 
+  name=${file##*/}; 
+
+  new=$p/$name".new.xlsx"
+  new2=$p/$name".new.csv"
+
+  old=$p/$name".old.xlsx"
+  old2=$p/$name".old.csv"
+
+  svn export -r $vesion $url$name $new --force
+
+  svn export -r $(( $vesion-1 )) $url$name $old --force
+
+  /usr/local/bin/in2csv $new | perl -pe's#"[^"]*"#$&amp;=~y/,/_/r#ge' &gt; $new2
+
+  /usr/local/bin/in2csv $old | perl -pe's#"[^"]*"#$&amp;=~y/,/_/r#ge' &gt; $old2
+
+
+  echo "r"$vesion" "$name &gt;&gt; $output
+  sed -n '2p;' $new2 &gt;&gt; $output
+  echo '========================================================================' &gt;&gt; $output
+
+  sdiff -B -s -W -w 500 $old2 $new2 | column -t &gt;&gt; $output
+
+  echo &gt;&gt; $output
+
+
+  if [ `sdiff -B -s -W -w 500 $old2 $new2 | column -t | grep -c '\|'` -ge 1 ]; then
+      
+
+  sed -n '2p;' $new2 &gt; ./temp
+
+  
+  if [ `sed 's/[^,]//g' ./temp | awk '{ print length }'` -le 50 ]; then
+
+  sdiff -B -s -W -w 500 $old2 $new2 | tr '|' '\n' | column -t | perl -pe 's|(.*)&lt;$|\-$1|; s|^&gt;\s*([^ ]*)|\+$1|'  &gt; ./temp
+
+  sed -n '2p;' $new2 &gt;&gt; ./temp
+
+  perl -i -pe 's#(?&lt;=,)(?=,)#_#g; s#^,#_,#; s#, *$#,_#; ' ./temp
+  rs -c',' -C' ' -T &lt; ./temp | column -t  &gt;&gt; $output
+  echo &gt;&gt; $output
+  echo &gt;&gt; $output
+
+  fi;
+  fi;
+
+done;
+  echo &gt;&gt; $output
+  echo &gt;&gt; $output
+  echo &gt;&gt; $output
+  echo &gt;&gt; $output
+  echo &gt;&gt; $output
+  echo &gt;&gt; $output
+  echo &gt;&gt; $output
+done;
+
+
+echo 'done.' &gt;&gt; $output
+
+rm -rf ./temp</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>3B6ECC25-39BA-4D0A-BD94-DD26019FD616</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string>最新提交版本,和上一版本比较</string>
+				<key>text</key>
+				<string>input the commit revision</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>AA2FD292-E0B7-49CF-A283-D73BF9AF008F</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>cat /Users/hedley/.lost/.log/temp</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.terminalcommand</string>
+			<key>uid</key>
+			<string>647DA5E4-2190-4C04-9FD9-6C5F10A1C3A8</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>sxc</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>499BEE5F-CCE4-480B-B717-85E57F9F63DB</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>1</integer>
+				<key>matchstring</key>
+				<string>.*</string>
+				<key>regexcaseinsensitive</key>
+				<false/>
+				<key>regexmultiline</key>
+				<false/>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>E4B472C0-6C12-4002-B856-BECFB8A57C62</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>export PATH=$PATH:/opt/homebrew/bin/:/usr/bin/
+
+query=$1
+
+echo -n $query
+
+#要将$a分割开，先存储旧的分隔符
+OLD_IFS="$IFS"
+
+#设置分隔符
+IFS=" " 
+
+#如下会自动分隔
+arr=($query)
+
+cd ${PTR_PATH}/Common
+svn up -q
+for s in ${arr[@]}
+do
+#echo "$s"
+pre_version=$[s-1]
+echo $pre_version
+svn merge -q -r$pre_version:$s http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Common
+done
+
+
+
+author=`svn log  -r $s   http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Common | perl -lne '/^r\d+ / and @arr = split (" ", $_) and print @arr[2]'`
+
+msg=`svn log  -r $s   http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Common | sed -n '/LOST/,/-----------/p' | sed -n '/-------/d;p'`
+
+echo "- "$msg"- by "$author</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>707F558D-67A7-44FA-9C3B-C724B86D230E</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<true/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Patch Merge Done.</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>ED8F64EB-1AD8-41DD-8ABE-44534838141E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string>e.g. 10037 10048</string>
+				<key>text</key>
+				<string>用空格分隔版本号</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>9F87EBFF-954A-48B2-B026-70DA5FA7307E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>pa_ptr_c</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>78F6F075-333C-4F6F-ACD7-7F687D71C366</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>1</integer>
+				<key>matchstring</key>
+				<string>.*</string>
+				<key>regexcaseinsensitive</key>
+				<false/>
+				<key>regexmultiline</key>
+				<false/>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>4F0F3CCC-9FA2-4C61-B63D-59A44B84C689</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string>e.g. 10037 10048</string>
+				<key>text</key>
+				<string>用空格分隔版本号</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>2922E4AE-4A53-4D74-9386-0641FF702E9B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>export PATH=$PATH:/opt/homebrew/bin/:/usr/bin/
+
+query=$1
+
+echo -n $query
+
+#要将$a分割开，先存储旧的分隔符
+OLD_IFS="$IFS"
+
+#设置分隔符
+IFS=" " 
+
+#如下会自动分隔
+arr=($query)
+
+cd ${RELEASE_PATH}/Common
+svn up -q
+for s in ${arr[@]}
+do
+#echo "$s"
+pre_version=$[s-1]
+svn merge -q -r$pre_version:$s http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Common
+done
+
+
+
+author=`svn log  -r $s   http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Common | perl -lne '/^r\d+ / and @arr = split (" ", $_) and print @arr[2]'`
+
+msg=`svn log  -r $s   http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Common | sed -n '/LOST/,/-----------/p' | sed -n '/-------/d;p'`
+
+echo "- "$msg"- by "$author</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>50D48EB7-FE5A-4489-804A-63380DAAD9E8</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alignment</key>
+				<integer>0</integer>
+				<key>backgroundcolor</key>
+				<string></string>
+				<key>fadespeed</key>
+				<integer>0</integer>
+				<key>fillmode</key>
+				<integer>0</integer>
+				<key>font</key>
+				<string></string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>largetypetext</key>
+				<string>Release Done.</string>
+				<key>textcolor</key>
+				<string></string>
+				<key>wrapat</key>
+				<integer>50</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.largetype</string>
+			<key>uid</key>
+			<string>175B506F-BB17-433C-ABC5-2FB8C77EE88E</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>pa_c</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>52EE1CA9-85FF-480C-92C8-49CA682EE87C</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>1</integer>
+				<key>matchstring</key>
+				<string>.*</string>
+				<key>regexcaseinsensitive</key>
+				<false/>
+				<key>regexmultiline</key>
+				<false/>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>83D7962C-1E6B-499C-9528-57D6C5B419AC</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string>Think about it, carefully</string>
+				<key>text</key>
+				<string>确认分支对齐？</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>74DA580F-54D3-44D0-BF28-9850E37C2D0B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>export PATH=$PATH:/opt/homebrew/bin/:/usr/local/bin/
+
+# cdn tmp
+svn copy -m"LOST-19027 发版备份脚本-branches cdn tmp" http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Client/Platform/android_global http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Client/Platform/android_global_tmp
+
+svn copy -m"LOST-19027 发版备份ios脚本-branches cdn tmp" http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Client/Platform/ios http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Client/Platform/ios_global_tmp
+
+# 1. branches-&gt;tag
+############# 1.1  1/2
+svn move --force -m"LOST-19027 发版备份脚本-branches-&gt;tag" http://svn.super-chameleon.com:8822/svn/lost/Source/branches http://svn.super-chameleon.com:8822/svn/lost/Source/tags/TAG-`date -u +"%Y-%m-%d"`-ALL
+
+############# 1.2  2/2
+# svn delete -m"LOST-19027 发版备份脚本-remove branches" http://svn.super-chameleon.com:8822/svn/lost/Source/branches
+
+# 2. branches_ptr-&gt;branches
+svn copy -m"LOST-19027 发版备份脚本-ptr-&gt;branches" http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr http://svn.super-chameleon.com:8822/svn/lost/Source/branches
+
+# cnd tmp revert
+svn delete -m"LOST-19027 发版备份脚本-branches cdn tmp revert" http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Client/Platform/android_global
+
+svn move --force -m"LOST-19027 发版备份脚本-branches cdn tmp revert" http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Client/Platform/android_global_tmp http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Client/Platform/android_global
+
+svn delete -m"LOST-19027 发版备份脚本-branches cdn tmp revert" http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Client/Platform/android_global_tmp
+
+svn delete -m"LOST-19027 发版备份脚本-branches cdn tmp revert" http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Client/Platform/ios
+
+svn move --force -m"LOST-19027 发版备份脚本-branches cdn tmp revert" http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Client/Platform/ios_global_tmp http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Client/Platform/ios
+
+svn delete -m"LOST-19027 发版备份脚本-branches cdn tmp revert" http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Client/Platform/ios_global_tmp
+
+# 3. recreate branches externals
+cd ${RELEASE_PATH}/Server
+svn up
+
+cd ${RELEASE_PATH}/Server/Source/Code/develop/common
+svn propdel svn:externals 'commonConfig'
+svn propset svn:externals 'commonConfig http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Server/Source/Framework/core/common/commonConfig' .
+
+cd ./data
+svn propdel svn:externals 'shineData'
+svn propdel svn:externals 'commonData'
+cat &gt; /tmp/setmp &lt;&lt; EOF
+shineData http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Server/Source/Framework/core/common/data/shineData
+commonData http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Server/Source/Framework/core/common/data/commonData
+EOF
+svn propset svn:externals -F /tmp/setmp .
+svn up
+
+cd ../../docs
+svn propdel svn:externals 'commonDocs'
+svn propset svn:externals 'commonDocs http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Server/Source/Framework/core/docs' .
+
+cd ../server
+svn propdel svn:externals 'tools'
+svn propdel svn:externals 'server_config'
+svn propdel svn:externals 'server_save'
+cat &gt; /tmp/setmp &lt;&lt; EOF
+tools http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Server/Source/Framework/core/server/tools
+server_config http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Common/server_config
+server_save http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Common/server_save
+EOF
+svn propset svn:externals -F /tmp/setmp .
+
+cd ./bin
+svn propdel svn:externals 'LangRes'
+svn propset svn:externals 'LangRes http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Client/Resource/LangRes' .
+
+cd ../clientProject
+svn propdel svn:externals 'commonClient'
+svn propset svn:externals 'commonClient http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Server/Source/Framework/core/server/clientProject/commonClient' .
+
+cd ../gmClientProject
+svn propdel svn:externals 'commonGMClient'
+svn propset svn:externals 'commonGMClient http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Server/Source/Framework/core/server/gmClientProject/commonGMClient' .
+
+cd ../toolProject
+svn propdel svn:externals 'commonTool'
+svn propdel svn:externals 'shine8'
+svn propdel svn:externals 'shineTool'
+cat &gt; /tmp/setmp &lt;&lt; EOF
+commonTool http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Server/Source/Framework/core/server/toolProject/commonTool
+shine8 http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Server/Source/Framework/core/server/toolProject/shine8
+shineTool http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Server/Source/Framework/core/server/toolProject/shineTool
+EOF
+svn propset svn:externals -F /tmp/setmp .
+
+cd ../project
+svn propdel svn:externals 'shine'
+svn propdel svn:externals 'commonBase'
+svn propdel svn:externals 'commonGame'
+svn propdel svn:externals 'commonCenter'
+svn propdel svn:externals 'commonLogin'
+svn propdel svn:externals 'commonManager'
+cat &gt; /tmp/setmp &lt;&lt; EOF
+shine http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Server/Source/Framework/core/server/project/shine
+commonBase http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Server/Source/Framework/core/server/project/commonBase
+commonGame http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Server/Source/Framework/core/server/project/commonGame
+commonCenter http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Server/Source/Framework/core/server/project/commonCenter
+commonLogin http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Server/Source/Framework/core/server/project/commonLogin
+commonManager http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Server/Source/Framework/core/server/project/commonManager
+EOF
+svn propset svn:externals -F /tmp/setmp .
+
+cd ./game/resource
+svn propdel svn:externals 'proto'
+svn propset svn:externals 'proto http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Common/protobuf/Messages' .
+
+svn propdel svn:externals 'proto3'
+svn propset svn:externals 'proto3 http://svn.super-chameleon.com:8822/svn/lost/Source/branches/Common/nodegraph/protocol' .
+
+rm -rf /tmp/setmp
+
+cd ${RELEASE_PATH}/Server
+svn ci -m"LOST-19027 发版备份脚本-externals"
+
+svn up</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>0BB21E3D-0BF0-42B9-8C47-92D5A9DEE9E7</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>bsptr</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>429B21B5-A025-44A5-A406-0589746892CD</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>1</integer>
+				<key>matchstring</key>
+				<string>.*</string>
+				<key>regexcaseinsensitive</key>
+				<false/>
+				<key>regexmultiline</key>
+				<false/>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>91826A29-A102-48EE-9E84-6E883B48D896</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.junction</string>
+			<key>uid</key>
+			<string>B12777CF-32F0-4528-A663-035B9B23C851</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>107558C0-1645-4569-860A-6625B0C41980</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>export PATH=$PATH:/opt/homebrew/bin/:/usr/bin/:/usr/local/bin/
+echo -n cdn1
+# cdn tmp
+svn copy -m"LOST-19027 发版备份脚本-branches_ptr cdn tmp" http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Client/Platform/android_ptr http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Client/Platform/android_ptr_tmp
+
+echo -n cdn
+# 1. remove branches_ptr 
+############# 1.1  1/2
+svn delete -m"LOST-19027 发版备份脚本-remove branches_ptr" http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr
+
+############# 1.2  2/2
+# svn move --force -m"LOST-19027 发版备份脚本-branches_ptr-&gt;tag" http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr http://svn.super-chameleon.com:8822/svn/lost/Source/tags/TAG-`date -u +"%Y-%m-%d"`-PTR
+
+# 2. trunk-&gt;ptr
+svn copy -m"LOST-19027 发版备份脚本-trunk-&gt;ptr" http://svn.super-chameleon.com:8822/svn/lost/Source/trunk http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr
+
+
+# cnd tmp revert
+svn delete -m"LOST-19027 发版备份脚本-branches_ptr cdn tmp revert" http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Client/Platform/android_ptr
+
+svn move --force -m"LOST-19027 发版备份脚本-branches_ptr cdn tmp revert" http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Client/Platform/android_ptr_tmp http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Client/Platform/android_ptr
+
+svn delete -m"LOST-19027 发版备份脚本-branches_ptr cdn tmp revert" http://svn.super-chameleon.com:8822/svn/lost/Source/trunk/Client/Platform/android_ptr_tmp
+
+
+# 3. recreate ptr externals
+cd ${PTR_PATH}/Server
+svn up
+
+cd ${PTR_PATH}/Server/Source/Code/develop/common
+svn propdel svn:externals 'commonConfig'
+svn propset svn:externals 'commonConfig http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Server/Source/Framework/core/common/commonConfig' .
+svn up
+
+cd ./data
+svn propdel svn:externals 'shineData'
+svn propdel svn:externals 'commonData'
+cat &gt; /tmp/setmp &lt;&lt; EOF
+shineData http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Server/Source/Framework/core/common/data/shineData
+commonData http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Server/Source/Framework/core/common/data/commonData
+EOF
+svn propset svn:externals -F /tmp/setmp .
+svn up
+
+cd ../../docs
+svn propdel svn:externals 'commonDocs'
+svn propset svn:externals 'commonDocs http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Server/Source/Framework/core/docs' .
+svn up
+
+cd ../server
+svn propdel svn:externals 'tools'
+svn propdel svn:externals 'server_config'
+svn propdel svn:externals 'server_save'
+cat &gt; /tmp/setmp &lt;&lt; EOF
+tools http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Server/Source/Framework/core/server/tools
+server_config http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Common/server_config
+server_save http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Common/server_save
+EOF
+svn propset svn:externals -F /tmp/setmp .
+svn up
+
+cd ./bin
+svn propdel svn:externals 'LangRes'
+svn propset svn:externals 'LangRes http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Client/Resource/LangRes' .
+svn up
+
+cd ../clientProject
+svn propdel svn:externals 'commonClient'
+svn propset svn:externals 'commonClient http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Server/Source/Framework/core/server/clientProject/commonClient' .
+svn up
+
+cd ../gmClientProject
+svn propdel svn:externals 'commonGMClient'
+svn propset svn:externals 'commonGMClient http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Server/Source/Framework/core/server/gmClientProject/commonGMClient' .
+svn up
+
+
+cd ../toolProject
+svn propdel svn:externals 'commonTool'
+svn propdel svn:externals 'shine8'
+svn propdel svn:externals 'shineTool'
+cat &gt; /tmp/setmp &lt;&lt; EOF
+commonTool http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Server/Source/Framework/core/server/toolProject/commonTool
+shine8 http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Server/Source/Framework/core/server/toolProject/shine8
+shineTool http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Server/Source/Framework/core/server/toolProject/shineTool
+EOF
+svn propset svn:externals -F /tmp/setmp .
+svn up
+
+
+cd ../project
+svn propdel svn:externals 'shine'
+svn propdel svn:externals 'commonBase'
+svn propdel svn:externals 'commonGame'
+svn propdel svn:externals 'commonCenter'
+svn propdel svn:externals 'commonLogin'
+svn propdel svn:externals 'commonManager'
+cat &gt; /tmp/setmp &lt;&lt; EOF
+shine http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Server/Source/Framework/core/server/project/shine
+commonBase http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Server/Source/Framework/core/server/project/commonBase
+commonGame http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Server/Source/Framework/core/server/project/commonGame
+commonCenter http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Server/Source/Framework/core/server/project/commonCenter
+commonLogin http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Server/Source/Framework/core/server/project/commonLogin
+commonManager http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Server/Source/Framework/core/server/project/commonManager
+EOF
+svn propset svn:externals -F /tmp/setmp .
+svn up
+
+cd ./game/resource
+svn propdel svn:externals 'proto'
+svn propset svn:externals 'proto http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Common/protobuf/Messages' .
+
+svn propdel svn:externals 'proto3'
+svn propset svn:externals 'proto3 http://svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Common/nodegraph/protocol' .
+
+svn up
+
+rm -rf /tmp/setmp
+
+cd ${PTR_PATH}/Server
+svn ci -m"LOST-19027 发版备份脚本-ptr externals"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>4743C7A9-0DC3-4018-814B-E53B7B90F5AC</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string>Think about it, carefully</string>
+				<key>text</key>
+				<string>确认PTR对齐？</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>26D72BD9-C152-4A9E-B0E1-971CFE1BFD08</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>1</integer>
+				<key>matchstring</key>
+				<string>.*</string>
+				<key>regexcaseinsensitive</key>
+				<false/>
+				<key>regexmultiline</key>
+				<false/>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>3419EB1A-236B-4173-8A70-87FC8F24ABCD</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>cb_ptrst</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>5B9298E4-9E2A-48CD-A5ED-16515351069E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string>Think about it, carefully</string>
+				<key>text</key>
+				<string>确认func对齐？</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>70FF5488-9461-4F23-8D46-B4A0CA9E588B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>export PATH=$PATH:/opt/homebrew/bin/:/usr/local/bin/:/usr/bin/
+
+
+# 1. remove branches_func
+############# 1.1  1/2
+echo "1. remove branches_func a"
+svn delete -m"LOST-19027 发版备份脚本-remove branches_func" http://svn.super-chameleon.com:8822/svn/lost/Source/branches_func
+echo "1. remove branches_func b"
+
+############# 1.2  2/2
+# svn move --force -m"LOST-19027 发版备份脚本-branches_func-&gt;tag" http://svn.super-chameleon.com:8822/svn/lost/Source/branches_func http://svn.super-chameleon.com:8822/svn/lost/Source/tags/TAG-`date -u +"%Y-%m-%d"`-FUNC
+
+# 2. trunk-&gt;func
+svn copy -m"LOST-19027 发版备份脚本-trunk-&gt;func" http://svn.super-chameleon.com:8822/svn/lost/Source/trunk http://svn.super-chameleon.com:8822/svn/lost/Source/branches_func
+
+
+# 3. recreate func externals
+cd ${FUNC_PATH}/Server
+svn up
+
+cd ${FUNC_PATH}/Server/Source/Code/develop/common
+svn propdel svn:externals 'commonConfig'
+svn propset svn:externals 'commonConfig http://svn.super-chameleon.com:8822/svn/lost/Source/branches_func/Server/Source/Framework/core/common/commonConfig' .
+svn up
+
+cd ./data
+svn propdel svn:externals 'shineData'
+svn propdel svn:externals 'commonData'
+cat &gt; /tmp/setmp &lt;&lt; EOF
+shineData http://svn.super-chameleon.com:8822/svn/lost/Source/branches_func/Server/Source/Framework/core/common/data/shineData
+commonData http://svn.super-chameleon.com:8822/svn/lost/Source/branches_func/Server/Source/Framework/core/common/data/commonData
+EOF
+svn propset svn:externals -F /tmp/setmp .
+svn up
+
+cd ../../docs
+svn propdel svn:externals 'commonDocs'
+svn propset svn:externals 'commonDocs http://svn.super-chameleon.com:8822/svn/lost/Source/branches_func/Server/Source/Framework/core/docs' .
+svn up
+
+cd ../server
+svn propdel svn:externals 'tools'
+svn propdel svn:externals 'server_config'
+svn propdel svn:externals 'server_save'
+cat &gt; /tmp/setmp &lt;&lt; EOF
+tools http://svn.super-chameleon.com:8822/svn/lost/Source/branches_func/Server/Source/Framework/core/server/tools
+server_config http://svn.super-chameleon.com:8822/svn/lost/Source/branches_func/Common/server_config
+server_save http://svn.super-chameleon.com:8822/svn/lost/Source/branches_func/Common/server_save
+EOF
+svn propset svn:externals -F /tmp/setmp .
+svn up
+
+cd ./bin
+svn propdel svn:externals 'LangRes'
+svn propset svn:externals 'LangRes http://svn.super-chameleon.com:8822/svn/lost/Source/branches_func/Client/Resource/LangRes' .
+svn up
+
+cd ../clientProject
+svn propdel svn:externals 'commonClient'
+svn propset svn:externals 'commonClient http://svn.super-chameleon.com:8822/svn/lost/Source/branches_func/Server/Source/Framework/core/server/clientProject/commonClient' .
+svn up
+
+cd ../gmClientProject
+svn propdel svn:externals 'commonGMClient'
+svn propset svn:externals 'commonGMClient http://svn.super-chameleon.com:8822/svn/lost/Source/branches_func/Server/Source/Framework/core/server/gmClientProject/commonGMClient' .
+svn up
+
+
+cd ../toolProject
+svn propdel svn:externals 'commonTool'
+svn propdel svn:externals 'shine8'
+svn propdel svn:externals 'shineTool'
+cat &gt; /tmp/setmp &lt;&lt; EOF
+commonTool http://svn.super-chameleon.com:8822/svn/lost/Source/branches_func/Server/Source/Framework/core/server/toolProject/commonTool
+shine8 http://svn.super-chameleon.com:8822/svn/lost/Source/branches_func/Server/Source/Framework/core/server/toolProject/shine8
+shineTool http://svn.super-chameleon.com:8822/svn/lost/Source/branches_func/Server/Source/Framework/core/server/toolProject/shineTool
+EOF
+svn propset svn:externals -F /tmp/setmp .
+svn up
+
+
+cd ../project
+svn propdel svn:externals 'shine'
+svn propdel svn:externals 'commonBase'
+svn propdel svn:externals 'commonGame'
+svn propdel svn:externals 'commonCenter'
+svn propdel svn:externals 'commonLogin'
+svn propdel svn:externals 'commonManager'
+cat &gt; /tmp/setmp &lt;&lt; EOF
+shine http://svn.super-chameleon.com:8822/svn/lost/Source/branches_func/Server/Source/Framework/core/server/project/shine
+commonBase http://svn.super-chameleon.com:8822/svn/lost/Source/branches_func/Server/Source/Framework/core/server/project/commonBase
+commonGame http://svn.super-chameleon.com:8822/svn/lost/Source/branches_func/Server/Source/Framework/core/server/project/commonGame
+commonCenter http://svn.super-chameleon.com:8822/svn/lost/Source/branches_func/Server/Source/Framework/core/server/project/commonCenter
+commonLogin http://svn.super-chameleon.com:8822/svn/lost/Source/branches_func/Server/Source/Framework/core/server/project/commonLogin
+commonManager http://svn.super-chameleon.com:8822/svn/lost/Source/branches_func/Server/Source/Framework/core/server/project/commonManager
+EOF
+svn propset svn:externals -F /tmp/setmp .
+svn up
+
+cd ./game/resource
+svn propdel svn:externals 'proto'
+svn propset svn:externals 'proto http://svn.super-chameleon.com:8822/svn/lost/Source/branches_func/Common/protobuf/Messages' .
+
+svn propdel svn:externals 'proto3'
+svn propset svn:externals 'proto3 http://svn.super-chameleon.com:8822/svn/lost/Source/branches_func/Common/nodegraph/protocol' .
+
+svn up
+
+rm -rf /tmp/setmp
+
+cd ${FUNC_PATH}/Server
+svn ci -m"LOST-19027 发版备份脚本-func externals"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>B4C391AC-845C-4169-A8C4-B91674F570C6</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>cb_funcbr</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>21F94A96-6A31-4D0D-B267-556B2227D363</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>1</integer>
+				<key>matchstring</key>
+				<string>.*</string>
+				<key>regexcaseinsensitive</key>
+				<false/>
+				<key>regexmultiline</key>
+				<false/>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>B1464813-B29A-43B5-8D4B-EE10E85DC121</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string>engine_xxx</string>
+				<key>text</key>
+				<string>input the hot version</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>EC4EB8F1-FFF7-482E-A891-8558563DAA0E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string></string>
+				<key>title</key>
+				<string>Done.</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>50B974E7-DFE5-4FDB-B6A9-B17DD65F3FB9</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>127</integer>
+				<key>script</key>
+				<string>{ echo "`date` --online--"; /usr/local/bin/fab -f fabfile.py hotVersion:version={query}; } &gt;&gt; ~/.lost/hot_version</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>93631B29-9CDC-48AC-A77C-E6A3E06F7F9E</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>1</integer>
+				<key>matchstring</key>
+				<string>.*</string>
+				<key>regexcaseinsensitive</key>
+				<false/>
+				<key>regexmultiline</key>
+				<false/>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>02C79E16-57F7-46C9-B5AD-9AC5FF2C41E9</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>hv</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>5A9994E5-D5A7-48A8-97B7-1FC03AAD38FF</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string></string>
+				<key>title</key>
+				<string>Done.</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>818FD033-A8FB-450A-827D-8B80DC548390</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>127</integer>
+				<key>script</key>
+				<string>{ echo "`date` --ptr--"; /usr/local/bin/fab -f fabfile.py hotVersionPtr:version={query}; } &gt;&gt; ~/.lost/hot_version</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>70C8B67D-5FDB-42C0-87FA-CBD668C7DB8C</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string>engine_xxx</string>
+				<key>text</key>
+				<string>input the hot version</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>0D64EF6D-63E7-451F-8F82-4E8CBAEA6AD2</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>hv_ptr</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>580273B9-22DC-4768-9C57-9E916234E387</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>1</integer>
+				<key>matchstring</key>
+				<string>.*</string>
+				<key>regexcaseinsensitive</key>
+				<false/>
+				<key>regexmultiline</key>
+				<false/>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>8C39565B-5566-42A4-A602-091AB4F0475D</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string>持续时间(s)</string>
+				<key>text</key>
+				<string>input the duration</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>A99703E1-27F8-42DB-9734-6C50D89D682D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>paths</key>
+				<array>
+					<string>/Applications/Transmit.app</string>
+				</array>
+				<key>toggle</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.launchfiles</string>
+			<key>uid</key>
+			<string>5290814F-7F02-49BA-ADF6-1D7053BFC16F</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>127</integer>
+				<key>script</key>
+				<string>/usr/local/bin/fab -f fabfile.py jfr:duration={query}</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>BF30AB43-9822-48DC-89B6-D04179874227</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>jfr</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>E195663A-B302-4EC9-9E77-8D2FEB53D920</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>1</integer>
+				<key>matchstring</key>
+				<string>.*</string>
+				<key>regexcaseinsensitive</key>
+				<false/>
+				<key>regexmultiline</key>
+				<false/>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>466890B4-FC61-46F2-B42C-430D3ED28447</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>cat /Users/hedley/.lost/.log/temp</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.terminalcommand</string>
+			<key>uid</key>
+			<string>0A4B3EFD-B2B5-41CC-AABC-1B40FDA141EB</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>##  cd /Users/hedley/Documents/workspace/lost_release/Common
+
+##  svn log --search yumiao  -l 100 -v
+
+##  svn log --verbose -r 97771
+
+
+
+export LANG="en_US.UTF-8"
+
+p="/Users/hedley/Desktop/dump/excel-check"
+
+url="http://yandeli@svn.super-chameleon.com:8822/svn/lost/Source/branches_ptr/Common/xlsx_config/gameConfig/"
+
+output="/Users/hedley/.lost/.log/temp"
+
+cd /Users/hedley/Documents/workspace/lost_ptr/Common/xlsx_config/gameConfig
+
+query=$1;
+
+arr=(${query// / })
+
+for vesion in ${arr[@]}; do
+
+echo $vesion &gt;&gt; $output
+svn log --verbose -r $vesion &gt;&gt; $output
+
+for file in `svn log --verbose -r $vesion | grep 'xlsx$' | awk '{print $NF}' `; do 
+  name=${file##*/}; 
+
+  if [ "$name" == "scenePlaceElement.xlsx" ]; then
+	  continue  		
+  fi;
+
+  new=$p/$name".new.xlsx"
+  new2=$p/$name".new.csv"
+
+  old=$p/$name".old.xlsx"
+  old2=$p/$name".old.csv"
+
+  svn export -r $vesion $url$name $new --force
+
+  svn export -r $(( $vesion-1 )) $url$name $old --force
+
+  /usr/local/bin/in2csv $new | perl -pe's#"[^"]*"#$&amp;=~y/,/_/r#ge' &gt; $new2
+
+  /usr/local/bin/in2csv $old | perl -pe's#"[^"]*"#$&amp;=~y/,/_/r#ge' &gt; $old2
+
+
+  echo "r"$vesion" "$name &gt;&gt; $output
+#  sed -n '2p;' $new2 &gt;&gt; $output
+  echo '========================================================================' &gt;&gt; $output
+
+  sdiff -B -s -W -w 500 &lt;(head -5 $old2) &lt;(head -5 $new2) | column -t &gt;&gt; $output
+
+  echo &gt;&gt; $output
+
+done;
+  echo &gt;&gt; $output
+  echo &gt;&gt; $output
+  echo &gt;&gt; $output
+  echo &gt;&gt; $output
+  echo &gt;&gt; $output
+  echo &gt;&gt; $output
+  echo &gt;&gt; $output
+done;
+
+
+echo 'done.' &gt;&gt; $output</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>D76D1E83-EE76-4D7A-B504-B84887B31DC4</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string>最新提交版本,和上一版本比较</string>
+				<key>text</key>
+				<string>input the commit revision</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>E9084B8B-5169-482D-8202-852801C4476F</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>sxch</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>516F0624-6DE1-4EDE-BC22-075A54239867</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>1</integer>
+				<key>matchstring</key>
+				<string>.*</string>
+				<key>regexcaseinsensitive</key>
+				<false/>
+				<key>regexmultiline</key>
+				<false/>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>2168B390-8CBE-4EE6-B48E-868B01BDBB8D</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>openwith</key>
+				<string></string>
+				<key>sourcefile</key>
+				<string>{query}</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openfile</string>
+			<key>uid</key>
+			<string>6A720AEB-D9D6-4F7C-ADD7-E523A000F564</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>103</integer>
+				<key>script</key>
+				<string>echo '
+{"items": [
+' &gt; /tmp/_t_xlxs.json
+
+for file in ${PTR_PATH}/Common/xlsx_config/gameConfig/* ${PTR_PATH}/Common/xlsx_config/commonConfig/* ${PTR_PATH}/Common/xlsx_config/designConfig/* ${PTR_PATH}/Common/xlsx_config/gameConfig/enum/*; do
+	name=`echo $file | awk -F'/' '{print $NF}'`
+    if [[ $name =~ ^[^~].*xlsx$ ]]; then
+                echo '{"title":"'$name'","arg":"'$file'"},' &gt;&gt; /tmp/_t_xlxs.json
+    fi;
+done
+
+
+echo '
+	{"title":"BLANK"}
+]}
+' &gt;&gt; /tmp/_t_xlxs.json</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>8A3E19AA-DB86-4A01-A2E8-A7AB25396469</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Loading data…</string>
+				<key>script</key>
+				<string># export user query for fuzzy.py
+export query="$1"
+
+# call `cat $filename` via fuzzy.py script
+./fuzzy.py cat /tmp/_t_xlxs.json</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>5525B813-7F8B-4B1E-9569-D38CBD8AE6CC</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>path</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.revealfile</string>
+			<key>uid</key>
+			<string>00138119-C33E-40F1-89DA-F5351697BC05</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>xlsx_ptr</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>6F1D7CD1-883D-4E5F-951B-23A815831E1C</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>cd ${PTR_PATH}/LangRes/
+
+for file in `ls | grep ini`; do
+	cp -f $file  ${RELEASE_PATH}/LangRes/
+done</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>FA8E13C0-F419-4681-9FDE-59273E56ADAA</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>lang</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>507B05F9-0516-4A3D-BCE4-047C89E8B06D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>export PATH=$PATH:/opt/homebrew/bin/:/usr/bin/
+
+file=$1
+
+ptr_file=`echo $file | gsed 's/lost_ptr/lost/'`
+
+cp -f $file $ptr_file</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>A3464649-64E2-4A61-BF70-A9B0588140CF</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>1</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>2B70D7C3-0850-48D6-A9FD-ECF22FADFAEB</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>query="{query}"
+
+echo -n $query | ./lost_log.perl</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>5</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>4AAFC4B4-FC8A-462B-8BDD-89AD84CCD85C</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<true/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>41F87E6A-2C3D-4F60-A4E1-41BAAE141876</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>export PATH=$PATH:/opt/homebrew/bin/:/usr/bin/
+
+file=$1
+
+ptr_file=`echo $file | gsed 's/lost_ptr/lost_release/'`
+
+cp -f $file $ptr_file</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>7C4BBA29-8105-415D-95A8-A2A8D804A702</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>1</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>A5E143A5-59B4-4EF3-B011-42739EC61307</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>query="{query}"
+
+echo -n $query | ./lost_log.perl -C</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>5</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>094F18D9-D288-47DF-B20C-65136DD27DA3</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>query=$1
+
+echo -n $query | ./lost.pl</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>5</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>0A56789B-93F4-4240-9C88-2CD2E138FB52</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<true/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>FBCA5881-A630-41D0-8765-C6E91026DED3</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>1</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>8516EEE6-6BE0-4F7E-BC93-BC5EE0034ACB</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string>Lost support.</string>
+	<key>uidata</key>
+	<dict>
+		<key>00138119-C33E-40F1-89DA-F5351697BC05</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1005</integer>
+			<key>ypos</key>
+			<integer>2175</integer>
+		</dict>
+		<key>0257C2EC-A7B5-471C-B7F2-2CF3EA9535A1</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1390</integer>
+			<key>ypos</key>
+			<integer>590</integer>
+		</dict>
+		<key>02C79E16-57F7-46C9-B5AD-9AC5FF2C41E9</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>530</integer>
+			<key>ypos</key>
+			<integer>1635</integer>
+		</dict>
+		<key>0303533C-8FB8-45E3-9B40-9851C0DE9117</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>960</integer>
+			<key>ypos</key>
+			<integer>150</integer>
+		</dict>
+		<key>0355105A-16DE-4978-BF4C-EAE23E03B7BB</key>
+		<dict>
+			<key>xpos</key>
+			<integer>980</integer>
+			<key>ypos</key>
+			<integer>685</integer>
+		</dict>
+		<key>04C03784-778B-49F5-836E-172FA4AADE97</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1050</integer>
+			<key>ypos</key>
+			<integer>260</integer>
+		</dict>
+		<key>094F18D9-D288-47DF-B20C-65136DD27DA3</key>
+		<dict>
+			<key>xpos</key>
+			<integer>290</integer>
+			<key>ypos</key>
+			<integer>2490</integer>
+		</dict>
+		<key>096FD1E2-7C54-4267-B906-6A674E43D5F5</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1440</integer>
+			<key>ypos</key>
+			<integer>150</integer>
+		</dict>
+		<key>0A0A2A5F-C795-424A-9DF3-316F9C502446</key>
+		<dict>
+			<key>xpos</key>
+			<integer>60</integer>
+			<key>ypos</key>
+			<integer>680</integer>
+		</dict>
+		<key>0A4B3EFD-B2B5-41CC-AABC-1B40FDA141EB</key>
+		<dict>
+			<key>xpos</key>
+			<integer>905</integer>
+			<key>ypos</key>
+			<integer>1945</integer>
+		</dict>
+		<key>0A56789B-93F4-4240-9C88-2CD2E138FB52</key>
+		<dict>
+			<key>xpos</key>
+			<integer>400</integer>
+			<key>ypos</key>
+			<integer>2650</integer>
+		</dict>
+		<key>0ADB7178-8051-4A9C-B05D-A524BA6A77FE</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>deploy test server</string>
+			<key>xpos</key>
+			<integer>410</integer>
+			<key>ypos</key>
+			<integer>50</integer>
+		</dict>
+		<key>0BB21E3D-0BF0-42B9-8C47-92D5A9DEE9E7</key>
+		<dict>
+			<key>xpos</key>
+			<integer>905</integer>
+			<key>ypos</key>
+			<integer>1295</integer>
+		</dict>
+		<key>0D64EF6D-63E7-451F-8F82-4E8CBAEA6AD2</key>
+		<dict>
+			<key>xpos</key>
+			<integer>610</integer>
+			<key>ypos</key>
+			<integer>1725</integer>
+		</dict>
+		<key>107558C0-1645-4569-860A-6625B0C41980</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1185</integer>
+			<key>ypos</key>
+			<integer>1365</integer>
+		</dict>
+		<key>135A4798-113C-4269-A3BB-B5350C03062A</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1460</integer>
+			<key>ypos</key>
+			<integer>440</integer>
+		</dict>
+		<key>15047617-5843-4848-999A-2210F61DDE0B</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1210</integer>
+			<key>ypos</key>
+			<integer>150</integer>
+		</dict>
+		<key>1753E72C-4B70-4D69-B5F9-050FAB750FBF</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1050</integer>
+			<key>ypos</key>
+			<integer>120</integer>
+		</dict>
+		<key>175B506F-BB17-433C-ABC5-2FB8C77EE88E</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1185</integer>
+			<key>ypos</key>
+			<integer>1245</integer>
+		</dict>
+		<key>1ABDDAE9-6C84-488C-AB58-01C7488377B5</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>960</integer>
+			<key>ypos</key>
+			<integer>290</integer>
+		</dict>
+		<key>1B73FCA7-D1DE-4E08-A770-6EADB24496DA</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1115</integer>
+			<key>ypos</key>
+			<integer>875</integer>
+		</dict>
+		<key>2168B390-8CBE-4EE6-B48E-868B01BDBB8D</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>525</integer>
+			<key>ypos</key>
+			<integer>1975</integer>
+		</dict>
+		<key>21F94A96-6A31-4D0D-B267-556B2227D363</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>branches func sync with trunk</string>
+			<key>xpos</key>
+			<integer>475</integer>
+			<key>ypos</key>
+			<integer>1535</integer>
+		</dict>
+		<key>24D2242E-86ED-4C16-852A-E7AA4DBC6DBC</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1155</integer>
+			<key>ypos</key>
+			<integer>10</integer>
+		</dict>
+		<key>26D72BD9-C152-4A9E-B0E1-971CFE1BFD08</key>
+		<dict>
+			<key>xpos</key>
+			<integer>605</integer>
+			<key>ypos</key>
+			<integer>1405</integer>
+		</dict>
+		<key>2922E4AE-4A53-4D74-9386-0641FF702E9B</key>
+		<dict>
+			<key>xpos</key>
+			<integer>605</integer>
+			<key>ypos</key>
+			<integer>1225</integer>
+		</dict>
+		<key>2B70D7C3-0850-48D6-A9FD-ECF22FADFAEB</key>
+		<dict>
+			<key>note</key>
+			<string>sort</string>
+			<key>xpos</key>
+			<integer>110</integer>
+			<key>ypos</key>
+			<integer>2350</integer>
+		</dict>
+		<key>2D005FE8-0B66-4660-9090-5ECC3EEBD03C</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1525</integer>
+			<key>ypos</key>
+			<integer>115</integer>
+		</dict>
+		<key>2FDC22F9-D67A-4C70-8884-04913D5F2333</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>905</integer>
+			<key>ypos</key>
+			<integer>470</integer>
+		</dict>
+		<key>324DF8DB-8666-4BEA-8AC7-416E38353E7F</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1240</integer>
+			<key>ypos</key>
+			<integer>560</integer>
+		</dict>
+		<key>340FF459-8CD1-4183-8090-F6F1CD1CE0F6</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1525</integer>
+			<key>ypos</key>
+			<integer>255</integer>
+		</dict>
+		<key>3419EB1A-236B-4173-8A70-87FC8F24ABCD</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>525</integer>
+			<key>ypos</key>
+			<integer>1435</integer>
+		</dict>
+		<key>358C0208-8171-44B8-B893-266B2F45276A</key>
+		<dict>
+			<key>xpos</key>
+			<integer>835</integer>
+			<key>ypos</key>
+			<integer>685</integer>
+		</dict>
+		<key>3B6ECC25-39BA-4D0A-BD94-DD26019FD616</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>4</integer>
+			<key>xpos</key>
+			<integer>755</integer>
+			<key>ypos</key>
+			<integer>1045</integer>
+		</dict>
+		<key>3D03F288-2056-4FB3-B575-01D47F4B5BAA</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>525</integer>
+			<key>ypos</key>
+			<integer>835</integer>
+		</dict>
+		<key>41F87E6A-2C3D-4F60-A4E1-41BAAE141876</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>5</integer>
+			<key>note</key>
+			<string>The selected text will be copied to clipboard and pasted as plain text to the frontmost app.</string>
+			<key>xpos</key>
+			<integer>530</integer>
+			<key>ypos</key>
+			<integer>2390</integer>
+		</dict>
+		<key>429B21B5-A025-44A5-A406-0589746892CD</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>branches sync with ptr</string>
+			<key>xpos</key>
+			<integer>465</integer>
+			<key>ypos</key>
+			<integer>1325</integer>
+		</dict>
+		<key>45AD2D5A-4D27-41DF-8E51-469D679145F9</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1390</integer>
+			<key>ypos</key>
+			<integer>470</integer>
+		</dict>
+		<key>466890B4-FC61-46F2-B42C-430D3ED28447</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>525</integer>
+			<key>ypos</key>
+			<integer>1865</integer>
+		</dict>
+		<key>4743C7A9-0DC3-4018-814B-E53B7B90F5AC</key>
+		<dict>
+			<key>xpos</key>
+			<integer>905</integer>
+			<key>ypos</key>
+			<integer>1405</integer>
+		</dict>
+		<key>499BEE5F-CCE4-480B-B717-85E57F9F63DB</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>svn xml check</string>
+			<key>xpos</key>
+			<integer>465</integer>
+			<key>ypos</key>
+			<integer>1075</integer>
+		</dict>
+		<key>49FDEE39-41AD-4551-A7DB-29D993EBE9A7</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>525</integer>
+			<key>ypos</key>
+			<integer>955</integer>
+		</dict>
+		<key>4AAFC4B4-FC8A-462B-8BDD-89AD84CCD85C</key>
+		<dict>
+			<key>xpos</key>
+			<integer>290</integer>
+			<key>ypos</key>
+			<integer>2350</integer>
+		</dict>
+		<key>4D5D7214-3DBC-41EC-BF9E-33C1AAA41FB8</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1440</integer>
+			<key>ypos</key>
+			<integer>290</integer>
+		</dict>
+		<key>4E3F81CB-17EE-4B30-AEBF-FC9A49A688DE</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1160</integer>
+			<key>ypos</key>
+			<integer>590</integer>
+		</dict>
+		<key>4F0F3CCC-9FA2-4C61-B63D-59A44B84C689</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>525</integer>
+			<key>ypos</key>
+			<integer>1195</integer>
+		</dict>
+		<key>5036AC0C-9217-491B-B981-65225F1D1207</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1135</integer>
+			<key>ypos</key>
+			<integer>685</integer>
+		</dict>
+		<key>507B05F9-0516-4A3D-BCE4-047C89E8B06D</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>lang</string>
+			<key>xpos</key>
+			<integer>465</integer>
+			<key>ypos</key>
+			<integer>2285</integer>
+		</dict>
+		<key>50B974E7-DFE5-4FDB-B6A9-B17DD65F3FB9</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1060</integer>
+			<key>ypos</key>
+			<integer>1605</integer>
+		</dict>
+		<key>50D48EB7-FE5A-4489-804A-63380DAAD9E8</key>
+		<dict>
+			<key>xpos</key>
+			<integer>755</integer>
+			<key>ypos</key>
+			<integer>1225</integer>
+		</dict>
+		<key>516F0624-6DE1-4EDE-BC22-075A54239867</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>svn xml check</string>
+			<key>xpos</key>
+			<integer>465</integer>
+			<key>ypos</key>
+			<integer>1975</integer>
+		</dict>
+		<key>5290814F-7F02-49BA-ADF6-1D7053BFC16F</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1055</integer>
+			<key>ypos</key>
+			<integer>1835</integer>
+		</dict>
+		<key>52EE1CA9-85FF-480C-92C8-49CA682EE87C</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>merge</string>
+			<key>xpos</key>
+			<integer>465</integer>
+			<key>ypos</key>
+			<integer>1255</integer>
+		</dict>
+		<key>5525B813-7F8B-4B1E-9569-D38CBD8AE6CC</key>
+		<dict>
+			<key>note</key>
+			<string>Fuzzy filter dataset</string>
+			<key>xpos</key>
+			<integer>765</integer>
+			<key>ypos</key>
+			<integer>2145</integer>
+		</dict>
+		<key>580273B9-22DC-4768-9C57-9E916234E387</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>note</key>
+			<string>hot version ptr</string>
+			<key>xpos</key>
+			<integer>470</integer>
+			<key>ypos</key>
+			<integer>1755</integer>
+		</dict>
+		<key>5872A2BC-A06C-428E-9A8C-3103EF93AE5B</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>config export</string>
+			<key>xpos</key>
+			<integer>815</integer>
+			<key>ypos</key>
+			<integer>470</integer>
+		</dict>
+		<key>5A9994E5-D5A7-48A8-97B7-1FC03AAD38FF</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>note</key>
+			<string>hot version</string>
+			<key>xpos</key>
+			<integer>470</integer>
+			<key>ypos</key>
+			<integer>1635</integer>
+		</dict>
+		<key>5B9298E4-9E2A-48CD-A5ED-16515351069E</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>branches ptr sync with trunk</string>
+			<key>xpos</key>
+			<integer>465</integer>
+			<key>ypos</key>
+			<integer>1435</integer>
+		</dict>
+		<key>5E608C96-0DA3-4E90-8C88-DC199DD1F116</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1290</integer>
+			<key>ypos</key>
+			<integer>120</integer>
+		</dict>
+		<key>5EB85D36-CEF6-4AF2-BD0E-1B5B9C0BD727</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>755</integer>
+			<key>ypos</key>
+			<integer>715</integer>
+		</dict>
+		<key>5EC4D38E-4B26-4906-93BC-66004EE0DC71</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1460</integer>
+			<key>ypos</key>
+			<integer>560</integer>
+		</dict>
+		<key>647DA5E4-2190-4C04-9FD9-6C5F10A1C3A8</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>4</integer>
+			<key>xpos</key>
+			<integer>905</integer>
+			<key>ypos</key>
+			<integer>1045</integer>
+		</dict>
+		<key>686F31DF-0AF9-4C8C-B659-D2173A8EC234</key>
+		<dict>
+			<key>xpos</key>
+			<integer>605</integer>
+			<key>ypos</key>
+			<integer>925</integer>
+		</dict>
+		<key>6A720AEB-D9D6-4F7C-ADD7-E523A000F564</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1005</integer>
+			<key>ypos</key>
+			<integer>2065</integer>
+		</dict>
+		<key>6ADC2719-FB2B-449E-AE12-6CA7E71133CC</key>
+		<dict>
+			<key>xpos</key>
+			<integer>550</integer>
+			<key>ypos</key>
+			<integer>140</integer>
+		</dict>
+		<key>6B9A3E3A-9EC7-4DB3-96DC-BE06718AC6A0</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>merge</string>
+			<key>xpos</key>
+			<integer>465</integer>
+			<key>ypos</key>
+			<integer>955</integer>
+		</dict>
+		<key>6C5D8145-9270-4AE6-8F39-742926A0709E</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>check data record</string>
+			<key>xpos</key>
+			<integer>465</integer>
+			<key>ypos</key>
+			<integer>665</integer>
+		</dict>
+		<key>6C6D1D74-5CBC-475B-9347-8D19FC83EE5A</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>config export</string>
+			<key>xpos</key>
+			<integer>465</integer>
+			<key>ypos</key>
+			<integer>555</integer>
+		</dict>
+		<key>6DB9C2A2-B0B6-4178-9912-E6D5F98EFEE7</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1210</integer>
+			<key>ypos</key>
+			<integer>290</integer>
+		</dict>
+		<key>6F1D7CD1-883D-4E5F-951B-23A815831E1C</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>open xlsx</string>
+			<key>xpos</key>
+			<integer>465</integer>
+			<key>ypos</key>
+			<integer>2175</integer>
+		</dict>
+		<key>6F3A93F8-E627-4105-AFAA-160C7B6087B1</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>config export ptr cn</string>
+			<key>xpos</key>
+			<integer>410</integer>
+			<key>ypos</key>
+			<integer>280</integer>
+		</dict>
+		<key>707F558D-67A7-44FA-9C3B-C724B86D230E</key>
+		<dict>
+			<key>xpos</key>
+			<integer>755</integer>
+			<key>ypos</key>
+			<integer>1165</integer>
+		</dict>
+		<key>70C8B67D-5FDB-42C0-87FA-CBD668C7DB8C</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>4</integer>
+			<key>xpos</key>
+			<integer>910</integer>
+			<key>ypos</key>
+			<integer>1725</integer>
+		</dict>
+		<key>70FF5488-9461-4F23-8D46-B4A0CA9E588B</key>
+		<dict>
+			<key>xpos</key>
+			<integer>615</integer>
+			<key>ypos</key>
+			<integer>1505</integer>
+		</dict>
+		<key>74DA580F-54D3-44D0-BF28-9850E37C2D0B</key>
+		<dict>
+			<key>xpos</key>
+			<integer>605</integer>
+			<key>ypos</key>
+			<integer>1295</integer>
+		</dict>
+		<key>78F6F075-333C-4F6F-ACD7-7F687D71C366</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>merge</string>
+			<key>xpos</key>
+			<integer>465</integer>
+			<key>ypos</key>
+			<integer>1195</integer>
+		</dict>
+		<key>79BFF2AE-86C7-43C8-A5CF-359976E33F3A</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>data export</string>
+			<key>xpos</key>
+			<integer>410</integer>
+			<key>ypos</key>
+			<integer>170</integer>
+		</dict>
+		<key>7C054D8F-C323-4F44-AC53-D74EA102466B</key>
+		<dict>
+			<key>xpos</key>
+			<integer>905</integer>
+			<key>ypos</key>
+			<integer>805</integer>
+		</dict>
+		<key>7C4BBA29-8105-415D-95A8-A2A8D804A702</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1005</integer>
+			<key>ypos</key>
+			<integer>2395</integer>
+		</dict>
+		<key>8044DA37-6FDC-4735-ADF2-86BD6C96DD8C</key>
+		<dict>
+			<key>xpos</key>
+			<integer>605</integer>
+			<key>ypos</key>
+			<integer>635</integer>
+		</dict>
+		<key>818FD033-A8FB-450A-827D-8B80DC548390</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1060</integer>
+			<key>ypos</key>
+			<integer>1725</integer>
+		</dict>
+		<key>8385942A-2BE2-45CF-8D11-98A8624C1E8C</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1000</integer>
+			<key>ypos</key>
+			<integer>440</integer>
+		</dict>
+		<key>83D7962C-1E6B-499C-9528-57D6C5B419AC</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>525</integer>
+			<key>ypos</key>
+			<integer>1255</integer>
+		</dict>
+		<key>8516EEE6-6BE0-4F7E-BC93-BC5EE0034ACB</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>note</key>
+			<string>Jira red highlight.</string>
+			<key>xpos</key>
+			<integer>230</integer>
+			<key>ypos</key>
+			<integer>2650</integer>
+		</dict>
+		<key>8A3E19AA-DB86-4A01-A2E8-A7AB25396469</key>
+		<dict>
+			<key>xpos</key>
+			<integer>605</integer>
+			<key>ypos</key>
+			<integer>2145</integer>
+		</dict>
+		<key>8C39565B-5566-42A4-A602-091AB4F0475D</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>530</integer>
+			<key>ypos</key>
+			<integer>1755</integer>
+		</dict>
+		<key>91826A29-A102-48EE-9E84-6E883B48D896</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>525</integer>
+			<key>ypos</key>
+			<integer>1325</integer>
+		</dict>
+		<key>93430EEC-9BDC-416F-A2F2-35B479D6AA42</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>config export func</string>
+			<key>xpos</key>
+			<integer>760</integer>
+			<key>ypos</key>
+			<integer>150</integer>
+		</dict>
+		<key>93631B29-9CDC-48AC-A77C-E6A3E06F7F9E</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>4</integer>
+			<key>xpos</key>
+			<integer>910</integer>
+			<key>ypos</key>
+			<integer>1605</integer>
+		</dict>
+		<key>96EA9BF8-97B8-4638-BEEA-45F0D1C856E4</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>note</key>
+			<string>Get server operations list.</string>
+			<key>xpos</key>
+			<integer>275</integer>
+			<key>ypos</key>
+			<integer>845</integer>
+		</dict>
+		<key>9F87EBFF-954A-48B2-B026-70DA5FA7307E</key>
+		<dict>
+			<key>xpos</key>
+			<integer>605</integer>
+			<key>ypos</key>
+			<integer>1165</integer>
+		</dict>
+		<key>A3464649-64E2-4A61-BF70-A9B0588140CF</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1005</integer>
+			<key>ypos</key>
+			<integer>2285</integer>
+		</dict>
+		<key>A5E143A5-59B4-4EF3-B011-42739EC61307</key>
+		<dict>
+			<key>note</key>
+			<string>sort</string>
+			<key>xpos</key>
+			<integer>110</integer>
+			<key>ypos</key>
+			<integer>2490</integer>
+		</dict>
+		<key>A99703E1-27F8-42DB-9734-6C50D89D682D</key>
+		<dict>
+			<key>xpos</key>
+			<integer>605</integer>
+			<key>ypos</key>
+			<integer>1835</integer>
+		</dict>
+		<key>AA2FD292-E0B7-49CF-A283-D73BF9AF008F</key>
+		<dict>
+			<key>xpos</key>
+			<integer>605</integer>
+			<key>ypos</key>
+			<integer>1045</integer>
+		</dict>
+		<key>B098A1B0-6C5E-46FD-955E-878F38154F35</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>merge</string>
+			<key>xpos</key>
+			<integer>465</integer>
+			<key>ypos</key>
+			<integer>835</integer>
+		</dict>
+		<key>B12777CF-32F0-4528-A663-035B9B23C851</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1085</integer>
+			<key>ypos</key>
+			<integer>1325</integer>
+		</dict>
+		<key>B1464813-B29A-43B5-8D4B-EE10E85DC121</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>535</integer>
+			<key>ypos</key>
+			<integer>1535</integer>
+		</dict>
+		<key>B29A098E-EB4F-441D-8F16-7A35B04A30B7</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1160</integer>
+			<key>ypos</key>
+			<integer>470</integer>
+		</dict>
+		<key>B4C391AC-845C-4169-A8C4-B91674F570C6</key>
+		<dict>
+			<key>xpos</key>
+			<integer>905</integer>
+			<key>ypos</key>
+			<integer>1505</integer>
+		</dict>
+		<key>B8ECE78C-718A-4F29-AC7B-1D0B427C2A7B</key>
+		<dict>
+			<key>xpos</key>
+			<integer>945</integer>
+			<key>ypos</key>
+			<integer>10</integer>
+		</dict>
+		<key>BF30AB43-9822-48DC-89B6-D04179874227</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>4</integer>
+			<key>xpos</key>
+			<integer>905</integer>
+			<key>ypos</key>
+			<integer>1835</integer>
+		</dict>
+		<key>C7BE9A6E-266D-4B80-A6EB-C1D3655C7BE0</key>
+		<dict>
+			<key>xpos</key>
+			<integer>755</integer>
+			<key>ypos</key>
+			<integer>805</integer>
+		</dict>
+		<key>C947E893-B6C3-4D67-A3FC-DE18A050F68D</key>
+		<dict>
+			<key>xpos</key>
+			<integer>905</integer>
+			<key>ypos</key>
+			<integer>925</integer>
+		</dict>
+		<key>C9C9F02B-B43E-4473-8E8F-A60772A055EA</key>
+		<dict>
+			<key>xpos</key>
+			<integer>605</integer>
+			<key>ypos</key>
+			<integer>805</integer>
+		</dict>
+		<key>CFAFF078-AB01-4118-96EE-7986EED91C3A</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>merge</string>
+			<key>xpos</key>
+			<integer>695</integer>
+			<key>ypos</key>
+			<integer>715</integer>
+		</dict>
+		<key>D1ABAE73-2D6F-4327-AE32-CBA0805AD2A0</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>905</integer>
+			<key>ypos</key>
+			<integer>590</integer>
+		</dict>
+		<key>D70C5AB1-2933-4812-8035-86668C516CAC</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>820</integer>
+			<key>ypos</key>
+			<integer>40</integer>
+		</dict>
+		<key>D76D1E83-EE76-4D7A-B504-B84887B31DC4</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>4</integer>
+			<key>xpos</key>
+			<integer>755</integer>
+			<key>ypos</key>
+			<integer>1945</integer>
+		</dict>
+		<key>DA90356B-C967-462A-9D30-827D92873E6B</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>config export trunk</string>
+			<key>xpos</key>
+			<integer>760</integer>
+			<key>ypos</key>
+			<integer>290</integer>
+		</dict>
+		<key>DD69B5F1-FE91-4B20-88D0-7713D645F109</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>test branches func sync with trunk</string>
+			<key>xpos</key>
+			<integer>760</integer>
+			<key>ypos</key>
+			<integer>40</integer>
+		</dict>
+		<key>E0760F5D-98DF-4DC8-9DB3-332738B743F8</key>
+		<dict>
+			<key>xpos</key>
+			<integer>755</integer>
+			<key>ypos</key>
+			<integer>925</integer>
+		</dict>
+		<key>E195663A-B302-4EC9-9E77-8D2FEB53D920</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>note</key>
+			<string>jfr</string>
+			<key>xpos</key>
+			<integer>465</integer>
+			<key>ypos</key>
+			<integer>1865</integer>
+		</dict>
+		<key>E4B472C0-6C12-4002-B856-BECFB8A57C62</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>525</integer>
+			<key>ypos</key>
+			<integer>1075</integer>
+		</dict>
+		<key>E7DD2610-2F14-478D-BC2F-DBE644733752</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1000</integer>
+			<key>ypos</key>
+			<integer>560</integer>
+		</dict>
+		<key>E9084B8B-5169-482D-8202-852801C4476F</key>
+		<dict>
+			<key>xpos</key>
+			<integer>605</integer>
+			<key>ypos</key>
+			<integer>1945</integer>
+		</dict>
+		<key>EC4EB8F1-FFF7-482E-A891-8558563DAA0E</key>
+		<dict>
+			<key>xpos</key>
+			<integer>610</integer>
+			<key>ypos</key>
+			<integer>1605</integer>
+		</dict>
+		<key>ED8F64EB-1AD8-41DD-8ABE-44534838141E</key>
+		<dict>
+			<key>xpos</key>
+			<integer>905</integer>
+			<key>ypos</key>
+			<integer>1165</integer>
+		</dict>
+		<key>EDD890BD-BD25-4FCA-8673-7384FF6FA4FE</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1290</integer>
+			<key>ypos</key>
+			<integer>260</integer>
+		</dict>
+		<key>EEFF475D-BD2F-48AA-9DC8-2F3B4267390A</key>
+		<dict>
+			<key>xpos</key>
+			<integer>540</integer>
+			<key>ypos</key>
+			<integer>265</integer>
+		</dict>
+		<key>F0FB8701-DEFF-4058-9582-CC444AB7CBF8</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1240</integer>
+			<key>ypos</key>
+			<integer>440</integer>
+		</dict>
+		<key>F2E3F434-3A52-4E84-9606-B59180623F67</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1715</integer>
+			<key>ypos</key>
+			<integer>410</integer>
+		</dict>
+		<key>FA8E13C0-F419-4681-9FDE-59273E56ADAA</key>
+		<dict>
+			<key>xpos</key>
+			<integer>605</integer>
+			<key>ypos</key>
+			<integer>2255</integer>
+		</dict>
+		<key>FBCA5881-A630-41D0-8765-C6E91026DED3</key>
+		<dict>
+			<key>xpos</key>
+			<integer>660</integer>
+			<key>ypos</key>
+			<integer>2650</integer>
+		</dict>
+		<key>FEBDF65F-BAA5-478F-BA8D-0DFAFA04517B</key>
+		<dict>
+			<key>xpos</key>
+			<integer>550</integer>
+			<key>ypos</key>
+			<integer>20</integer>
+		</dict>
+	</dict>
+	<key>variables</key>
+	<dict>
+		<key>CN_PATH</key>
+		<string>/Users/highfly029/Documents/work/lost_china</string>
+		<key>FUNC_PATH</key>
+		<string>/Users/highfly029/Documents/work/lost_func</string>
+		<key>JAVA</key>
+		<string>/Library/Java/JavaVirtualMachines/jdk-11.0.6.jdk/Contents/Home/bin/java</string>
+		<key>PTR_PATH</key>
+		<string>/Users/highfly029/Documents/work/lost_ptr</string>
+		<key>RELEASE_PATH</key>
+		<string>/Users/highfly029/Documents/work/lost_release</string>
+		<key>TRUNK_PATH</key>
+		<string>/Users/highfly029/Documents/work/lost</string>
+	</dict>
+	<key>version</key>
+	<string></string>
+	<key>webaddress</key>
+	<string></string>
+</dict>
+</plist>

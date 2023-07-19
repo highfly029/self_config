@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kill -9 $(jcmd |grep ClientStarter|awk '{print $1}'|xargs)",
+    "uid" : "CEDA8C22-D309-4A91-8255-051DA0A9E3D8",
+    "name" : "kill-name",
+    "keyword" : ""
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "firewall-cmd --zone=public --permanent --remove-port={clipboard}\/tcp && firewall-cmd --reload",
+    "uid" : "91EECA09-4F80-4C22-8FFE-D77599DF6C17",
+    "name" : "firewallremove",
+    "keyword" : ""
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "svn diff -r 23732:23731 file",
+    "uid" : "F60CC72F-3D0E-4F53-B109-1E18C6AFAEA0",
+    "name" : "svn diff with pre",
+    "keyword" : ""
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "firewall-cmd --zone=public --permanent --add-port={clipboard}\/tcp && firewall-cmd --reload",
+    "uid" : "929B2C9B-0A5F-4007-BD2B-C276112E2222",
+    "name" : "firewalladd",
+    "keyword" : ""
+  }
+}

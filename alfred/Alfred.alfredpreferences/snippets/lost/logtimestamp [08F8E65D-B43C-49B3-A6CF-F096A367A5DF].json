@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "awk -F '\\t' '{t=strftime(\"%Y-%m-%d %H:%M:%S\",$3\/1000); printf(\"%s->%s\\n\",t,$0)}'",
+    "uid" : "08F8E65D-B43C-49B3-A6CF-F096A367A5DF",
+    "name" : "logtimestamp",
+    "keyword" : ""
+  }
+}

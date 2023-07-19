@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "ssh -i \/Users\/highfly029\/Documents\/work\/ssh\/superchameleon-as.pem ec2-user@13.213.148.224",
+    "uid" : "3594FB91-65BB-4920-BE44-DCF3ACDCFB93",
+    "name" : "ptr_as",
+    "keyword" : ""
+  }
+}

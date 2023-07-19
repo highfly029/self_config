@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "tac game_1.main.log | sed -n '\/^#\/,\/^[0-9]\/ {\/^[0-9]\/ s\/\\(.*\\)\/\\1\\n\\n\\n\/;p}' | tac",
+    "uid" : "CAFC9829-F24E-4914-9F82-2C41B5FA4066",
+    "name" : "finderror",
+    "keyword" : ""
+  }
+}

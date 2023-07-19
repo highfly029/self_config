@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "ssh -p 10822 -i \/Users\/highfly029\/Documents\/work\/ssh\/lost2testserver.key ds@10.0.3.204\n",
+    "uid" : "BD1950C8-C03A-4D62-BF57-89AA303FF6D6",
+    "name" : "sifu_ssh",
+    "keyword" : ""
+  }
+}

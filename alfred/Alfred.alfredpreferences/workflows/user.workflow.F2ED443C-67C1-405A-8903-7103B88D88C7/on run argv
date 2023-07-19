@@ -1,0 +1,21 @@
+on run argv
+
+  set theQuery to do shell script "array=("&argv&");echo ${array[0]}"
+  set SSH to "ssh -i ~/.lost/liyunpeng-jumpserver.pem liyunpeng@vf-jumpserver-koko-bj.super-chameleon.com -p 2222"
+
+  tell application "iTerm"
+    select first window
+    tell the first window
+      select first tab      
+        tell current session to write text SSH  
+        delay 1
+        tell current session to write text 1
+        delay 1
+        tell current session to write text theQuery
+        delay 1
+        tell current session to write text "cd /home/lost/log;sudo bash"
+    end tell  
+  end tell
+end run
+
+

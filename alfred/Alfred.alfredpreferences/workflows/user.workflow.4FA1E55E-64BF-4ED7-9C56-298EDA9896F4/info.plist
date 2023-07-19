@@ -1,0 +1,2215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>com.duanxu.tools.server</string>
+	<key>connections</key>
+	<dict>
+		<key>03E68CD9-61D7-4692-BCB8-CD35F3D00D5D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>10C25EA4-FE07-4DB6-9906-2CBABF0033BC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>08FA8D1A-5224-4BE6-9FC0-8E9FE5918B67</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>9252395F-9790-46E7-B956-06227ED42283</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>1AFC57DD-A18A-490A-BE81-6B3AEA1BB6AD</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>FDA672F1-8CEF-486E-9F2D-A9FA2194D56D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>1FAAECF3-4EBC-4FE2-8705-04258ACE1142</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>224488FA-2671-4EE8-8EFA-180C80058304</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>AE68A62B-A968-44A0-A12E-E16383EB5589</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>2A2100E1-8EB1-413F-A104-D467F17FE03D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>AE68A62B-A968-44A0-A12E-E16383EB5589</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>2C9A6850-492B-4ABF-B0D1-92495580785E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>FDA672F1-8CEF-486E-9F2D-A9FA2194D56D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>1FAAECF3-4EBC-4FE2-8705-04258ACE1142</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>308B850A-204C-4854-A3D4-F9EBA15F9D9E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>AE68A62B-A968-44A0-A12E-E16383EB5589</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>49B82F59-7E40-4075-BDDD-3C99991938F5</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D7ABD4DE-F5A7-4F14-8D47-73E506CF79F2</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>4BE31643-0DB4-4C74-8123-6452107FB8F9</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>AE68A62B-A968-44A0-A12E-E16383EB5589</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>54FEBD7C-2EC3-45F4-A46F-D4B411A47062</key>
+		<array/>
+		<key>5DBC7543-2496-4C69-A72C-33CB5CAE97FA</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>74F3878D-9DE3-4E93-A819-CC8D3784F4F7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>66957B6B-6000-45C2-B7D6-34BC07CAD230</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B11F1FA7-FFF6-41F9-BFF2-612545899A2F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6D6F4BD1-99E7-4F4F-AA90-6898CED27150</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>AE68A62B-A968-44A0-A12E-E16383EB5589</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>73B27CD2-5E53-423E-A2D0-1DD0E173366A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>86479562-75F0-4B63-9698-E90FCAF0C8D0</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>74F3878D-9DE3-4E93-A819-CC8D3784F4F7</key>
+		<array/>
+		<key>7BEA2EDD-B6C4-498D-B45C-9961D450070F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2AC93440-1037-4FDB-A8D5-09B61CE9D5A3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>7EDB10E1-391B-4DB5-9EDC-6CD4D8439FB2</key>
+		<array/>
+		<key>9252395F-9790-46E7-B956-06227ED42283</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D8421634-D541-4175-94C5-C8A24C2DB690</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>AE68A62B-A968-44A0-A12E-E16383EB5589</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>79DBB51C-1B7E-4C4C-9D5E-B773B640707C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D7ABD4DE-F5A7-4F14-8D47-73E506CF79F2</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2AC93440-1037-4FDB-A8D5-09B61CE9D5A3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D97F33B0-84A4-4D28-90D7-553E4F32BB3C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A5555802-0615-41B8-891E-4498F318E323</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>EE184D1F-CF79-40CC-A963-BDDF410C78D5</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>308B850A-204C-4854-A3D4-F9EBA15F9D9E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>F03A93D7-C276-4A53-A095-4365546B5A86</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B384DFA1-7999-448E-9928-7DA744E7A52F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>FA3E4426-DB1A-4B3E-BC6B-1AB699D2AA79</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2C9A6850-492B-4ABF-B0D1-92495580785E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>FDD4253F-5B7F-4B28-9363-D7E026F2C98D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>FEDB2B5A-275E-445D-8079-563E24895AEC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>FF2A8CEB-AB0B-4701-8C86-78DC7B7465E1</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>66957B6B-6000-45C2-B7D6-34BC07CAD230</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>duanxu</string>
+	<key>description</key>
+	<string>服务器链接</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>work python</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>auto_check_deploy</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string></string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>5DBC7543-2496-4C69-A72C-33CB5CAE97FA</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>ob_db2</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>tell application "System Events"	set SSH to "ssh -i /Users/duanxu/work/soft/superchameleon.pem ec2-user@18.159.195.122"	if application process "Terminal" exists then -- do stuff you want to do only if Safari exists 		tell application "Terminal"			activate			if (count of windows) is 0 then				do script SSH			else				do script SSH in window 1			end if		end tell	else		tell application "Terminal"			activate			do script SSH		end tell	end ifend tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>ob-db2</string>
+				<key>type</key>
+				<integer>6</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>FEA971E8-B232-4597-9419-053BE35A2620</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>tell application "System Events"	set configClean to "python3 /Users/duanxu/work/lost/lost/Common/tool/auto_check_deploy.py"	if application process "Terminal" exists then -- do stuff you want to do only if Safari exists 		tell application "Terminal"			activate			if (count of windows) is 0 then				do script configClean			else				do script configClean in window 1			end if		end tell	else		tell application "Terminal"			activate			do script configClean		end tell	end ifend tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>更新测试服</string>
+				<key>type</key>
+				<integer>6</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>74F3878D-9DE3-4E93-A819-CC8D3784F4F7</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>fixedorder</key>
+				<false/>
+				<key>items</key>
+				<string>[{"title":"g1","arg":"54.232.37.54","subtitle":"game1"},{"title":"g2","arg":"177.71.158.141","subtitle":"game2"},{"title":"g4","arg":"54.232.37.54","subtitle":"game4"},{"title":"center","arg":"18.229.136.150","subtitle":"center"},{"title":"g3","arg":"18.228.174.182"}]</string>
+				<key>keyword</key>
+				<string>ols</string>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>select server</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.listfilter</string>
+			<key>uid</key>
+			<string>6D6F4BD1-99E7-4F4F-AA90-6898CED27150</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Done.</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>FEDB2B5A-275E-445D-8079-563E24895AEC</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>on run argv
+  	set theQuery to item 1 of argv
+  	set SSH to "ssh -i /Users/duanxu/work/work/soft/superchameleon-sa.pem ec2-user@"&amp;theQuery
+  	#display dialog SSH
+	tell application "System Events"
+	    
+	    if application process "Terminal" exists then -- do stuff you want to do only if Safari exists 
+            tell application "Terminal"
+                if (count of windows) is 0 then	
+                    set currentTab to do script SSH
+					activate
+					delay 1
+                    do script "cd /home/lost/log;sudo bash" in currentTab
+					
+                else	
+                    do script SSH in window 1
+					activate
+                    do script "cd /home/lost/log;sudo bash" in window 1
+					
+                end if
+            end tell
+        else
+            tell application "Terminal"
+			   do script SSH in window 1
+					activate
+					delay 1
+                    do script "cd /home/lost/log;sudo bash" in window 1			
+            end tell
+        end if
+	end tell
+end run
+</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>FDD4253F-5B7F-4B28-9363-D7E026F2C98D</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<true/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>testrestart</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>tell application "System Events"	set configClean to "python3 /Users/duanxu/work/work/py/restart_server.py"	if application process "Terminal" exists then -- do stuff you want to do only if Safari exists 		tell application "Terminal"			activate			if (count of windows) is 0 then				do script configClean			else				do script configClean in window 1			end if		end tell	else		tell application "Terminal"			activate			do script configClean		end tell	end ifend tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>重启测试服</string>
+				<key>type</key>
+				<integer>6</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>54FEBD7C-2EC3-45F4-A46F-D4B411A47062</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>online_g1_as</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>tell application "System Events"	set SSH to "ssh -i /Users/duanxu/work/soft/superchameleon-as.pem ec2-user@13.229.216.137"	if application process "Terminal" exists then -- do stuff you want to do only if Safari exists 		tell application "Terminal"			activate			if (count of windows) is 0 then				do script SSH			else				do script SSH in window 1			end if		end tell	else		tell application "Terminal"			activate			do script SSH		end tell	end ifend tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>as线上game1</string>
+				<key>type</key>
+				<integer>6</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>02D06981-ED91-4302-97B0-13E8E60EABE1</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>fixedorder</key>
+				<false/>
+				<key>items</key>
+				<string>[{"title":"g1","arg":"18.193.80.103","subtitle":"game1"},{"title":"g2","arg":"3.68.223.170","subtitle":"game2"},{"title":"lg1","arg":"18.197.187.29","subtitle":"login1"},{"title":"lg2","arg":"18.193.133.106","subtitle":"login2"},{"title":"lg3","arg":"18.197.40.148","subtitle":"login3"},{"title":"g7","arg":"18.197.40.148","subtitle":"game7"},{"title":"obs","arg":"18.159.195.122","subtitle":"obs"},{"title":"g4","arg":"3.68.107.69","subtitle":"game4"},{"title":"g3","arg":"35.158.102.67","subtitle":"game3"},{"title":"g5","arg":"18.196.4.236","subtitle":"game5"},{"title":"g6","arg":"18.193.133.106","subtitle":"game6"},{"title":"g13","arg":"35.158.102.67","subtitle":"game13"},{"title":"g8","arg":"3.120.113.23","subtitle":"game8"},{"title":"obus","arg":"3.123.232.7","subtitle":"ob-us"},{"title":"obas","arg":"35.157.192.71","subtitle":"ob-as"},{"title":"g15","arg":"18.196.4.236","subtitle":"game15"},{"title":"g16","arg":"18.193.133.106","subtitle":"game16"},{"title":"g17","arg":"18.197.40.148","subtitle":"game17"},{"title":"g18","arg":"3.120.113.23","subtitle":"game18"},{"title":"center","arg":"18.192.176.67","subtitle":"center,manager"},{"title":"obeu","arg":"52.59.148.174","subtitle":"ob-eu"},{"title":"g10","arg":"3.126.99.46","subtitle":"game10"},{"title":"g9","arg":"3.121.10.84","subtitle":"game9"}]</string>
+				<key>keyword</key>
+				<string>ole</string>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>select server</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.listfilter</string>
+			<key>uid</key>
+			<string>224488FA-2671-4EE8-8EFA-180C80058304</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Done.</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>10C25EA4-FE07-4DB6-9906-2CBABF0033BC</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>on run argv
+  	set theQuery to item 1 of argv
+  	set SSH to "ssh -i /Users/duanxu/work/work/soft/superchameleon-eu.pem ec2-user@"&amp;theQuery
+  	#display dialog SSH
+	tell application "System Events"
+	    
+	    if application process "Terminal" exists then -- do stuff you want to do only if Safari exists 
+            tell application "Terminal"
+                if (count of windows) is 0 then
+					activate
+                    set currentTab to do script SSH
+					delay 1
+                    do script "cd /home/lost/log;sudo bash" in currentTab
+					
+                else
+					activate
+                    do script SSH in window 1
+                    do script "cd /home/lost/log;sudo bash" in window 1
+					
+                end if
+            end tell
+        else
+            tell application "Terminal"
+				activate
+			   do script SSH in window 1
+					delay 1
+                    do script "cd /home/lost/log;sudo bash" in window 1			
+            end tell
+        end if
+	end tell
+end run
+</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>03E68CD9-61D7-4692-BCB8-CD35F3D00D5D</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>ptr_g1</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>tell application "System Events"	set SSH to "ssh -i /Users/duanxu/work/work/soft/superchameleon.pem ec2-user@gateway-lost-pre.super-chameleon.com"	if application process "Terminal" exists then -- do stuff you want to do only if Safari exists 		tell application "Terminal"			activate			if (count of windows) is 0 then				do script SSH			else				do script SSH in window 1			end if		end tell	else		tell application "Terminal"			activate			do script SSH		end tell	end ifend tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>ptr game1</string>
+				<key>type</key>
+				<integer>6</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>0297EB30-8467-48AA-BAB3-B7D8157B4A4F</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>on run argv
+
+  set theQuery to do shell script "array=("&amp;argv&amp;");echo ${array[0]}"
+  set keypath to do shell script "array=("&amp;argv&amp;");echo ${array[1]}"
+  set username to do shell script "array=("&amp;argv&amp;");echo ${array[2]}"
+
+  set SSH to "ssh -i "&amp;keypath&amp;" "&amp;username&amp;"@vf-jumpserver-koko-bj.super-chameleon.com -p 2222"
+
+  tell application "iTerm"
+    select first window
+    tell the first window
+      select first tab
+      #tell current session to write text "111"
+      
+             tell current session to write text SSH  
+      delay 1
+      tell current session to write text 1
+      delay 1
+      tell current session to write text theQuery
+      delay 1
+      tell current session to write text "cd /home/lost/log;sudo bash"
+    end tell
+    
+     end tell
+end run</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>AE68A62B-A968-44A0-A12E-E16383EB5589</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>ser</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>请等待。。。。。。。</string>
+				<key>script</key>
+				<string>python readExcel.py ${SERVER_PATH}/Server/Depoly/fab/oneKeyOpenServer/serverInfoNew.xlsx $1</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>大区 服务器类型（g）服务器id</string>
+				<key>title</key>
+				<string>服务器搜索</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>EE184D1F-CF79-40CC-A963-BDDF410C78D5</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<true/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Done.</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>79DBB51C-1B7E-4C4C-9D5E-B773B640707C</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>echo -n $1 ${KEY_PATH} ${USER}</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>308B850A-204C-4854-A3D4-F9EBA15F9D9E</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>fixedorder</key>
+				<false/>
+				<key>items</key>
+				<string>[{"title":"g1","arg":"23.23.2.182","subtitle":"game1"},{"title":"g2","arg":"3.221.213.7","subtitle":"game2"},{"title":"g3","arg":"3.226.120.105","subtitle":"game3"},{"title":"gm","arg":"34.236.42.247"},{"title":"center","arg":"34.198.249.231","subtitle":"center，login1"},{"title":"yc","arg":"13.56.107.193","subtitle":"压测服务器"},{"title":"ycc","arg":"50.18.45.111","subtitle":"压测客户端-部署正式"},{"title":"ob-us","arg":"44.195.244.13","subtitle":"game1"},{"title":"eg2","arg":"3.68.223.170","subtitle":"game2"},{"title":"g4","arg":"3.235.46.108","subtitle":"game4"},{"title":"l2","arg":"54.215.202.94","subtitle":"login2"},{"title":"g5","arg":"3.226.120.105","subtitle":"game5"},{"title":"ptr","arg":"54.84.228.134","subtitle":"正式ptr"},{"title":"g6","arg":"18.215.22.188","subtitle":"game6"},{"title":"g8","arg":"44.198.80.6","subtitle":"game8"},{"title":"g7","arg":"35.171.15.48","subtitle":"game7"},{"title":"gnew","arg":"34.226.222.51","subtitle":"g9"},{"title":"g10-11","arg":"34.226.222.51","subtitle":"game10、11"}]</string>
+				<key>keyword</key>
+				<string>ol</string>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>select server</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.listfilter</string>
+			<key>uid</key>
+			<string>2A2100E1-8EB1-413F-A104-D467F17FE03D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>update_config</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>tell application "System Events"	set configClean to "cd /Users/duanxu/work/lost/lost/Server/Source/Code/develop/server/tools;python3 configExportClean.py"	if application process "Terminal" exists then -- do stuff you want to do only if Safari exists 		tell application "Terminal"			activate			if (count of windows) is 0 then				do script configClean			else				do script configClean in window 1			end if		end tell	else		tell application "Terminal"
+			delay 2			activate			do script configClean		end tell	end ifend tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>更新本地config</string>
+				<key>type</key>
+				<integer>6</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>73B27CD2-5E53-423E-A2D0-1DD0E173366A</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>86479562-75F0-4B63-9698-E90FCAF0C8D0</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>on run argv
+  	set theQuery to item 1 of argv
+  	set SSH to "ssh -i /Users/duanxu/work/work/soft/superchameleon.pem ec2-user@"&amp;theQuery
+  	#display dialog SSH
+	tell application "System Events"
+	    
+	    if application process "Terminal" exists then -- do stuff you want to do only if Safari exists 
+            tell application "Terminal"
+                if (count of windows) is 0 then
+					
+                    set currentTab to do script SSH
+					delay 1
+                    do script "cd /home/lost/log;sudo bash" in currentTab
+					
+                else
+					activate
+                    do script SSH in window 1
+                    do script "cd /home/lost/log;sudo bash" in window 1
+					
+                end if
+				activate
+            end tell
+        else
+            tell application "Terminal"
+
+			   do script SSH in window 1
+					delay 1
+                    do script "cd /home/lost/log;sudo bash" in window 1				activate
+            end tell
+        end if
+	end tell
+end run
+</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>F03A93D7-C276-4A53-A095-4365546B5A86</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<true/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Done.</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>B384DFA1-7999-448E-9928-7DA744E7A52F</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>keyword</key>
+				<string>ur</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>on run argv
+  set theQuery to item 1 of argv
+  display "{'title':1}"
+  
+end run</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>打开网址</string>
+				<key>type</key>
+				<integer>6</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>C58CAB63-B6CF-491C-9EF7-C4BF7604DDF3</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>fixedorder</key>
+				<false/>
+				<key>items</key>
+				<string>[{"title":"g1","arg":"13.229.216.137","subtitle":"game1"},{"title":"g2","arg":"13.213.165.191","subtitle":"game2"},{"title":"g7","arg":"3.0.166.0","subtitle":"game7"},{"title":"g3","arg":"13.213.192.54","subtitle":"game3"},{"title":"g4","arg":"175.41.135.237","subtitle":"game4"},{"title":"center","arg":"13.229.203.209"},{"title":"g5","arg":"175.41.186.217","subtitle":"game5"},{"title":"g6","arg":"18.142.62.162","subtitle":"game6"},{"title":"g8","arg":"52.77.24.33","subtitle":"game8"},{"title":"ptr","arg":"13.213.148.224","subtitle":"ptr正式"},{"title":"g9","arg":"13.229.216.137","subtitle":"game9"},{"title":"bs","arg":"13.213.237.132","subtitle":"部署服务器"},{"title":"g10","arg":"13.213.165.191","subtitle":"game10"},{"title":"g11","arg":"13.213.192.54","subtitle":"game11"},{"title":"ptr db","arg":"13.213.237.132","subtitle":"发版"},{"title":"g15","arg":"54.251.183.160","subtitle":"game15"},{"title":"g16","arg":"13.213.109.11","subtitle":"game"},{"title":"g17","arg":"52.74.197.25","subtitle":"game17"}]</string>
+				<key>keyword</key>
+				<string>ola</string>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>select server</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.listfilter</string>
+			<key>uid</key>
+			<string>4BE31643-0DB4-4C74-8123-6452107FB8F9</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>update_data</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>tell application "System Events"	set configClean to "cd /Users/duanxu/work/lost/lost/Server/Source/Code/develop/server/tools/;python3 dataExportClean.py"	if application process "Terminal" exists then		tell application "Terminal"			activate			if (count of windows) is 0 then				do script configClean			else				do script configClean in window 1			end if		end tell	else		tell application "Terminal"			activate			do script configClean		end tell	end ifend tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>更新本地data</string>
+				<key>type</key>
+				<integer>6</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>7EDB10E1-391B-4DB5-9EDC-6CD4D8439FB2</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>/usr/local/opt/redis/bin/redis-server /usr/local/etc/redis.conf
+
+echo -n 'redis启动'</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>D7ABD4DE-F5A7-4F14-8D47-73E506CF79F2</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>on run argv
+  	set theQuery to item 1 of argv
+  	set SSH to "ssh -i /Users/duanxu/work/work/soft/superchameleon-as.pem ec2-user@"&amp;theQuery
+  	#display dialog SSH
+	tell application "System Events"
+	    
+	    if application process "Terminal" exists then -- do stuff you want to do only if Safari exists 
+            tell application "Terminal"
+				
+                if (count of windows) is 0 then
+                    set currentTab to do script SSH
+					delay 1
+                    do script "cd /home/lost/log;sudo bash" in currentTab
+					
+                else
+				
+                    do script SSH in window 1
+                    do script "cd /home/lost/log;sudo bash" in window 1
+					
+                end if
+				activate
+            end tell
+        else
+            tell application "Terminal"
+				
+			   do script SSH in window 1
+					delay 1
+                    do script "cd /home/lost/log;sudo bash" in window 1				activate
+            end tell
+        end if
+	end tell
+end run
+</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>D97F33B0-84A4-4D28-90D7-553E4F32BB3C</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<true/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Done.</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>A5555802-0615-41B8-891E-4498F318E323</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>lredis</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>启动本地redis</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>49B82F59-7E40-4075-BDDD-3C99991938F5</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>on run argv
+  	set theQuery to argv
+  	set SSH to "ssh -p 1" &amp; theQuery &amp; "22 -i /Users/duanxu/work/work/soft/lost2testserver.key ds@10.0.3.204"
+  	#display dialog SSH
+	tell application "System Events"
+	    
+	    if application process "Terminal" exists then -- do stuff you want to do only if Safari exists 
+            tell application "Terminal"
+                if (count of windows) is 0 then
+					activate
+                    set currentTab to do script SSH
+					delay 1
+                    do script "cd /home/lost/log;sudo bash" in currentTab
+					
+                else
+					activate
+                    do script SSH in window 1
+                    do script "cd /home/lost/log;sudo bash" in window 1
+					
+                end if
+            end tell
+        else
+            tell application "Terminal"
+				activate
+			   do script SSH in window 1
+					delay 1
+                    do script "cd /home/lost/log;sudo bash" in window 1			
+            end tell
+        end if
+	end tell
+end run
+</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>服务器id</string>
+				<key>title</key>
+				<string>连接服务器</string>
+				<key>type</key>
+				<integer>6</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>66957B6B-6000-45C2-B7D6-34BC07CAD230</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>ps</string>
+				<key>subtext</key>
+				<string>服务器id</string>
+				<key>text</key>
+				<string>连接私服</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>FF2A8CEB-AB0B-4701-8C86-78DC7B7465E1</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>完成</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>2AC93440-1037-4FDB-A8D5-09B61CE9D5A3</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alignment</key>
+				<integer>0</integer>
+				<key>backgroundcolor</key>
+				<string></string>
+				<key>fadespeed</key>
+				<integer>0</integer>
+				<key>fillmode</key>
+				<integer>0</integer>
+				<key>font</key>
+				<string></string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>largetypetext</key>
+				<string>服务器连接成功！</string>
+				<key>textcolor</key>
+				<string></string>
+				<key>wrapat</key>
+				<integer>50</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.largetype</string>
+			<key>uid</key>
+			<string>B11F1FA7-FFF6-41F9-BFF2-612545899A2F</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>lunity</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>/Applications/Unity/Unity.app/Contents/MacOS/Unity
+echo "redis启动"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>启动unity</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>7BEA2EDD-B6C4-498D-B45C-9961D450070F</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>D8421634-D541-4175-94C5-C8A24C2DB690</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>08FA8D1A-5224-4BE6-9FC0-8E9FE5918B67</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>query=`pbpaste`
+echo $query</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>5</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>9252395F-9790-46E7-B956-06227ED42283</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>FDA672F1-8CEF-486E-9F2D-A9FA2194D56D</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>sm</string>
+				<key>subtext</key>
+				<string>查询玩家消息</string>
+				<key>text</key>
+				<string>search player message</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>FA3E4426-DB1A-4B3E-BC6B-1AB699D2AA79</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>query=$1
+
+#echo -n $query
+
+#要将$a分割开，先存储旧的分隔符
+OLD_IFS="$IFS"
+
+#设置分隔符
+IFS=" " 
+
+
+#如下会自动分隔
+arr=($query)
+
+
+#echo grep -v \"CMD-[\\w]\{2,3\}[/\t]+${arr[0]}\" messageLog/game_${arr[1]}.main.log｜less
+#echo awk -F\"\\t\" \'\$7==${arr[0]} {print \$1\"\\t\"\$3\"\\t\"\$6\"\\t\"\$7\"\\t\"\$8\"\\t\"\$9\"\\t\"\$10}\' messageLog/game_${arr[1]}.main.log.202
+
+echo -n "grep 'CMD-.....${arr[0]}' messageLog/game_${arr[1]}.main.log."</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string>/usr/bin/python3</string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>2C9A6850-492B-4ABF-B0D1-92495580785E</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>内容</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>1FAAECF3-4EBC-4FE2-8705-04258ACE1142</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>fixedorder</key>
+				<false/>
+				<key>items</key>
+				<string>[{"title":"0","arg":"ol","subtitle":"北美\/NA"},{"title":"1","arg":"ols","subtitle":"南美洲\/sa"},{"title":"2","arg":"ole","subtitle":"欧洲"},{"title":"3","arg":"ola","subtitle":"亚洲"},{"title":"4","subtitle":"中国"}]</string>
+				<key>keyword</key>
+				<string>zone</string>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>subtext</key>
+				<string>输入id</string>
+				<key>title</key>
+				<string>区查找</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.listfilter</string>
+			<key>uid</key>
+			<string>1AFC57DD-A18A-490A-BE81-6B3AEA1BB6AD</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string></string>
+	<key>uidata</key>
+	<dict>
+		<key>0297EB30-8467-48AA-BAB3-B7D8157B4A4F</key>
+		<dict>
+			<key>xpos</key>
+			<integer>455</integer>
+			<key>ypos</key>
+			<integer>170</integer>
+		</dict>
+		<key>02D06981-ED91-4302-97B0-13E8E60EABE1</key>
+		<dict>
+			<key>xpos</key>
+			<integer>255</integer>
+			<key>ypos</key>
+			<integer>150</integer>
+		</dict>
+		<key>03E68CD9-61D7-4692-BCB8-CD35F3D00D5D</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1680</integer>
+			<key>ypos</key>
+			<integer>165</integer>
+		</dict>
+		<key>08FA8D1A-5224-4BE6-9FC0-8E9FE5918B67</key>
+		<dict>
+			<key>xpos</key>
+			<integer>55</integer>
+			<key>ypos</key>
+			<integer>655</integer>
+		</dict>
+		<key>10C25EA4-FE07-4DB6-9906-2CBABF0033BC</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1875</integer>
+			<key>ypos</key>
+			<integer>165</integer>
+		</dict>
+		<key>1AFC57DD-A18A-490A-BE81-6B3AEA1BB6AD</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1420</integer>
+			<key>ypos</key>
+			<integer>910</integer>
+		</dict>
+		<key>1FAAECF3-4EBC-4FE2-8705-04258ACE1142</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1685</integer>
+			<key>ypos</key>
+			<integer>905</integer>
+		</dict>
+		<key>224488FA-2671-4EE8-8EFA-180C80058304</key>
+		<dict>
+			<key>xpos</key>
+			<integer>920</integer>
+			<key>ypos</key>
+			<integer>155</integer>
+		</dict>
+		<key>2A2100E1-8EB1-413F-A104-D467F17FE03D</key>
+		<dict>
+			<key>xpos</key>
+			<integer>935</integer>
+			<key>ypos</key>
+			<integer>270</integer>
+		</dict>
+		<key>2AC93440-1037-4FDB-A8D5-09B61CE9D5A3</key>
+		<dict>
+			<key>xpos</key>
+			<integer>575</integer>
+			<key>ypos</key>
+			<integer>535</integer>
+		</dict>
+		<key>2C9A6850-492B-4ABF-B0D1-92495580785E</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1470</integer>
+			<key>ypos</key>
+			<integer>795</integer>
+		</dict>
+		<key>308B850A-204C-4854-A3D4-F9EBA15F9D9E</key>
+		<dict>
+			<key>xpos</key>
+			<integer>775</integer>
+			<key>ypos</key>
+			<integer>210</integer>
+		</dict>
+		<key>49B82F59-7E40-4075-BDDD-3C99991938F5</key>
+		<dict>
+			<key>xpos</key>
+			<integer>275</integer>
+			<key>ypos</key>
+			<integer>425</integer>
+		</dict>
+		<key>4BE31643-0DB4-4C74-8123-6452107FB8F9</key>
+		<dict>
+			<key>xpos</key>
+			<integer>930</integer>
+			<key>ypos</key>
+			<integer>405</integer>
+		</dict>
+		<key>54FEBD7C-2EC3-45F4-A46F-D4B411A47062</key>
+		<dict>
+			<key>xpos</key>
+			<integer>80</integer>
+			<key>ypos</key>
+			<integer>150</integer>
+		</dict>
+		<key>5DBC7543-2496-4C69-A72C-33CB5CAE97FA</key>
+		<dict>
+			<key>xpos</key>
+			<integer>70</integer>
+			<key>ypos</key>
+			<integer>15</integer>
+		</dict>
+		<key>66957B6B-6000-45C2-B7D6-34BC07CAD230</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1005</integer>
+			<key>ypos</key>
+			<integer>530</integer>
+		</dict>
+		<key>6D6F4BD1-99E7-4F4F-AA90-6898CED27150</key>
+		<dict>
+			<key>xpos</key>
+			<integer>930</integer>
+			<key>ypos</key>
+			<integer>20</integer>
+		</dict>
+		<key>73B27CD2-5E53-423E-A2D0-1DD0E173366A</key>
+		<dict>
+			<key>xpos</key>
+			<integer>85</integer>
+			<key>ypos</key>
+			<integer>280</integer>
+		</dict>
+		<key>74F3878D-9DE3-4E93-A819-CC8D3784F4F7</key>
+		<dict>
+			<key>xpos</key>
+			<integer>230</integer>
+			<key>ypos</key>
+			<integer>20</integer>
+		</dict>
+		<key>79DBB51C-1B7E-4C4C-9D5E-B773B640707C</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1380</integer>
+			<key>ypos</key>
+			<integer>210</integer>
+		</dict>
+		<key>7BEA2EDD-B6C4-498D-B45C-9961D450070F</key>
+		<dict>
+			<key>xpos</key>
+			<integer>280</integer>
+			<key>ypos</key>
+			<integer>550</integer>
+		</dict>
+		<key>7EDB10E1-391B-4DB5-9EDC-6CD4D8439FB2</key>
+		<dict>
+			<key>xpos</key>
+			<integer>85</integer>
+			<key>ypos</key>
+			<integer>405</integer>
+		</dict>
+		<key>86479562-75F0-4B63-9698-E90FCAF0C8D0</key>
+		<dict>
+			<key>xpos</key>
+			<integer>235</integer>
+			<key>ypos</key>
+			<integer>280</integer>
+		</dict>
+		<key>9252395F-9790-46E7-B956-06227ED42283</key>
+		<dict>
+			<key>xpos</key>
+			<integer>235</integer>
+			<key>ypos</key>
+			<integer>660</integer>
+		</dict>
+		<key>A5555802-0615-41B8-891E-4498F318E323</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1865</integer>
+			<key>ypos</key>
+			<integer>420</integer>
+		</dict>
+		<key>AE68A62B-A968-44A0-A12E-E16383EB5589</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1185</integer>
+			<key>ypos</key>
+			<integer>205</integer>
+		</dict>
+		<key>B11F1FA7-FFF6-41F9-BFF2-612545899A2F</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1195</integer>
+			<key>ypos</key>
+			<integer>535</integer>
+		</dict>
+		<key>B384DFA1-7999-448E-9928-7DA744E7A52F</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1875</integer>
+			<key>ypos</key>
+			<integer>295</integer>
+		</dict>
+		<key>C58CAB63-B6CF-491C-9EF7-C4BF7604DDF3</key>
+		<dict>
+			<key>xpos</key>
+			<integer>410</integer>
+			<key>ypos</key>
+			<integer>300</integer>
+		</dict>
+		<key>D7ABD4DE-F5A7-4F14-8D47-73E506CF79F2</key>
+		<dict>
+			<key>xpos</key>
+			<integer>430</integer>
+			<key>ypos</key>
+			<integer>420</integer>
+		</dict>
+		<key>D8421634-D541-4175-94C5-C8A24C2DB690</key>
+		<dict>
+			<key>xpos</key>
+			<integer>425</integer>
+			<key>ypos</key>
+			<integer>650</integer>
+		</dict>
+		<key>D97F33B0-84A4-4D28-90D7-553E4F32BB3C</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1670</integer>
+			<key>ypos</key>
+			<integer>420</integer>
+		</dict>
+		<key>EE184D1F-CF79-40CC-A963-BDDF410C78D5</key>
+		<dict>
+			<key>xpos</key>
+			<integer>610</integer>
+			<key>ypos</key>
+			<integer>210</integer>
+		</dict>
+		<key>F03A93D7-C276-4A53-A095-4365546B5A86</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1680</integer>
+			<key>ypos</key>
+			<integer>295</integer>
+		</dict>
+		<key>FA3E4426-DB1A-4B3E-BC6B-1AB699D2AA79</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1295</integer>
+			<key>ypos</key>
+			<integer>790</integer>
+		</dict>
+		<key>FDA672F1-8CEF-486E-9F2D-A9FA2194D56D</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1680</integer>
+			<key>ypos</key>
+			<integer>790</integer>
+		</dict>
+		<key>FDD4253F-5B7F-4B28-9363-D7E026F2C98D</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1680</integer>
+			<key>ypos</key>
+			<integer>25</integer>
+		</dict>
+		<key>FEA971E8-B232-4597-9419-053BE35A2620</key>
+		<dict>
+			<key>xpos</key>
+			<integer>395</integer>
+			<key>ypos</key>
+			<integer>20</integer>
+		</dict>
+		<key>FEDB2B5A-275E-445D-8079-563E24895AEC</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1875</integer>
+			<key>ypos</key>
+			<integer>25</integer>
+		</dict>
+		<key>FF2A8CEB-AB0B-4701-8C86-78DC7B7465E1</key>
+		<dict>
+			<key>xpos</key>
+			<integer>795</integer>
+			<key>ypos</key>
+			<integer>535</integer>
+		</dict>
+	</dict>
+	<key>variables</key>
+	<dict>
+		<key>KEY_PATH</key>
+		<string>/Users/highfly029/.lost/liyunpeng-jumpserver.pem</string>
+		<key>SERVER_PATH</key>
+		<string>/Users/highfly029/Documents/work/lost/</string>
+		<key>USER</key>
+		<string>liyunpeng</string>
+	</dict>
+	<key>variablesdontexport</key>
+	<array/>
+	<key>version</key>
+	<string>1.0.0</string>
+	<key>webaddress</key>
+	<string></string>
+</dict>
+</plist>

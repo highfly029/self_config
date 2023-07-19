@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "redis-server \/usr\/local\/etc\/redis.conf\n",
+    "uid" : "4768D0E6-D4DB-436A-ADE4-921DD0614467",
+    "name" : "startredis",
+    "keyword" : ""
+  }
+}

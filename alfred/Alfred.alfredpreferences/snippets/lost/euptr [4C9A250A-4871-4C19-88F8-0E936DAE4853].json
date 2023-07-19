@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "ssh -i \/Users\/highfly029\/Documents\/work\/ssh\/superchameleon-eu.pem ec2-user@gateway-lost-beta-as.super-chameleon.com",
+    "uid" : "4C9A250A-4871-4C19-88F8-0E936DAE4853",
+    "name" : "euptr",
+    "keyword" : ""
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "sed -rn 's\/^.*{clipboard:0}(.*)ClientPartData.*$\/\\1\/p'",
+    "uid" : "093C771E-91FA-4ED6-BFA5-C9617AFEB1E1",
+    "name" : "initClientsed",
+    "keyword" : ""
+  }
+}

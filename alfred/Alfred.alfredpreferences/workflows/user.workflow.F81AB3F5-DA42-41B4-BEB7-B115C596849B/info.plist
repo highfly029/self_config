@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string></string>
+	<key>category</key>
+	<string>Lost</string>
+	<key>connections</key>
+	<dict>
+		<key>099ABCF5-CA62-4B94-AF8E-022F05B6C9F2</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>37BE401D-6863-40A5-A60A-3994CC9C7F14</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>15299C7A-CDEA-4359-8898-446F2892DB7C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F2367638-714F-4325-AA06-3343A8D274F8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>247104A2-D244-400B-8BDE-60D78BEBC90A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F7D0F99A-DC93-4A97-ADD1-76AC62D113DB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>16E5B66E-CC11-4645-9025-B8525A4C939C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>37BE401D-6863-40A5-A60A-3994CC9C7F14</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A27AB79E-4725-4D1C-B3DA-6FF9A9E4B8D0</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>539C8B1B-37EA-4B45-9161-F6B9BD379C91</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>099ABCF5-CA62-4B94-AF8E-022F05B6C9F2</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>53E03C06-3699-4FFF-B9C6-68196914F745</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>6B44BC24-FEE0-4F76-ADCE-EF27ECEC1EC6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>550EFE6F-6399-4211-B71C-12365F1C3B39</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>7A716CDA-8D78-48D9-B264-1048A29AA364</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6B44BC24-FEE0-4F76-ADCE-EF27ECEC1EC6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1B9ADF25-C929-414A-AAB0-4000908CF283</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>7A716CDA-8D78-48D9-B264-1048A29AA364</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>FF316160-82F1-4AC1-8D82-72A1F0AC9ED6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>81D5AF64-844C-44F2-BB7C-ADB65180EAC7</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>550EFE6F-6399-4211-B71C-12365F1C3B39</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>AE3CACE6-2E4E-4449-AF02-43656F869CA3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>AE3CACE6-2E4E-4449-AF02-43656F869CA3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>53E03C06-3699-4FFF-B9C6-68196914F745</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>C8B62F87-E420-45F1-8CC3-50D4090047F5</key>
+		<array/>
+		<key>F2367638-714F-4325-AA06-3343A8D274F8</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A70A4E1E-712E-4575-967A-0AA64960904D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>B80E029A-EA37-44EF-A836-5697FEB00379</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>F2CD977D-22DB-453B-990B-D7A18E9938EC</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>247104A2-D244-400B-8BDE-60D78BEBC90A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>F8B910A9-21CB-46AB-BE0B-E2FF689F44EF</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>17DCAB4E-82BB-4E33-9189-F40C42439AF1</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>FF316160-82F1-4AC1-8D82-72A1F0AC9ED6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>10187A93-0E5C-4FB7-80A5-24B1B73F39C1</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>hedley</string>
+	<key>description</key>
+	<string>as mysql from_unixtime function</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>Time</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<true/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string></string>
+				<key>title</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>F7D0F99A-DC93-4A97-ADD1-76AC62D113DB</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<true/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string></string>
+				<key>title</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>A70A4E1E-712E-4575-967A-0AA64960904D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>if [[ "{query}" =~ "," ]]; then
+	t="{query}"
+	info=(${t//,/ })
+	echo -n `/usr/local/bin/gdate +%s -d"${info[0]} ${info[1]}" -u`${info[2]}
+else 
+	echo -n 	`/usr/local/bin/gdate +%s -d"{query}" -u`
+fi;
+
+# /usr/local/bin/gdate +%s -d"{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>247104A2-D244-400B-8BDE-60D78BEBC90A</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>from_unixtime</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>from_unixtime()</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>15299C7A-CDEA-4359-8898-446F2892DB7C</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>#if [ "{query}" -gt 1400000000000 ]; then
+#	perl -MPOSIX -e 'print strftime "%F %T", gmtime({query}/1000)'
+#else
+#	perl -MPOSIX -e 'print strftime "%F %T", gmtime({query})'
+#fi;
+	
+
+
+# perl -MPOSIX -le 'print strftime "%F %T", localtime({query})'
+
+
+
+if [ "{query}" -gt 1400000000000 ]; then
+	perl -MPOSIX -e 'print strftime "%F %T", gmtime({query}/1000)'
+elif [ "{query}" -gt 1400000000 ]; then
+	perl -MPOSIX -e 'print strftime "%F %T", gmtime({query})'
+else
+	# LOST专用,GCallWay
+	c=$(( "{query}"%10000 ))
+	echo $c
+fi;</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>F2367638-714F-4325-AA06-3343A8D274F8</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>unix_timestamp</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>unix_timestamp()</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>F2CD977D-22DB-453B-990B-D7A18E9938EC</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>16E5B66E-CC11-4645-9025-B8525A4C939C</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>B80E029A-EA37-44EF-A836-5697FEB00379</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>echo {query} | tr '#' '\n' | 
+
+
+while read tt
+do
+	if [[ "$tt" =~ "," ]]; then
+		t="$tt"
+		info=(${t//,/ })
+		echo `/usr/local/bin/gdate +%s -d"${info[0]} ${info[1]}" -u`${info[2]}
+	else 
+		echo `/usr/local/bin/gdate +%s -d"$tt" -u`
+	fi
+
+done
+
+# /usr/local/bin/gdate +%s -d"{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>F8B910A9-21CB-46AB-BE0B-E2FF689F44EF</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<true/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>17DCAB4E-82BB-4E33-9189-F40C42439AF1</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>1</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>539C8B1B-37EA-4B45-9161-F6B9BD379C91</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>query=( $1 )
+
+length=${#query[@]}
+current=0
+
+for t in ${query[@]}; do
+	current=$((current + 1))
+	if [[ "$current" -eq "$length" ]]; then
+		echo -n $t | /usr/local/bin/gsed 's:_: :'
+	else 
+		echo $t | sed -n 's:_: :p'
+	fi
+done;</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>C8B62F87-E420-45F1-8CC3-50D4090047F5</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>o</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>7A716CDA-8D78-48D9-B264-1048A29AA364</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>SAVEIFS=$IFS    # Save current IFS
+IFS=$'\n'       # Change IFS to new line
+names=({query}) # split to array $names
+IFS=$SAVEIFS    # Restore IFS
+
+for (( i=0; i&lt;${#names[@]}; i++ ))
+do
+	t=${names[$i]}
+
+    if [ $t -gt 1400000000000 ]; then
+	    perl -MPOSIX -e "print strftime qq(%F %T), gmtime($t/1000)"
+    elif [ $t -gt 1400000000 ]; then
+	    perl -MPOSIX -e "print strftime qq(%F \%T), gmtime($t)"
+	else
+		c=$(( $t%10000 ))
+		path=/Users/highfly029/Documents/work/lost/Server/Source/Code/develop/server/project/base/src/main/java/com/home/base/constlist/generate/GCallWayType.java
+		grep -B 1 "=$c;" $path | /usr/local/bin/gsed -n '1{ s:[^*]*\*\*\([^*]*\) \*/:\1:p} ; 2{s:.* \(\w*\)=.*:\1:p}; ' | tr -d '\n' | tr '\r' '_'
+    fi;
+	
+	if (( i &lt; ${#names[@]}-1 )); then
+		echo 
+	fi;
+done</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>FF316160-82F1-4AC1-8D82-72A1F0AC9ED6</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<true/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>10187A93-0E5C-4FB7-80A5-24B1B73F39C1</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>1</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>122</integer>
+				<key>hotmod</key>
+				<integer>8912896</integer>
+				<key>hotstring</key>
+				<string>F1</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>81D5AF64-844C-44F2-BB7C-ADB65180EAC7</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>2</integer>
+				<key>matchstring</key>
+				<string>[^ ]+</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>550EFE6F-6399-4211-B71C-12365F1C3B39</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>if [[ "{query}" =~ "," ]]; then
+	t="{query}"
+	info=(${t//,/ })
+	echo -n `/usr/local/bin/gdate +%s -d"${info[0]} ${info[1]}" -u`${info[2]}
+else 
+	echo -n 	`/usr/local/bin/gdate +%s -d"{query}" -u`
+fi;
+
+# /usr/local/bin/gdate +%s -d"{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>37BE401D-6863-40A5-A60A-3994CC9C7F14</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<true/>
+				<key>clipboardtext</key>
+				<string>{var:o} {query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>A27AB79E-4725-4D1C-B3DA-6FF9A9E4B8D0</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>o</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>099ABCF5-CA62-4B94-AF8E-022F05B6C9F2</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{var:o}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>1B9ADF25-C929-414A-AAB0-4000908CF283</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>#if [ "{query}" -gt 1400000000000 ]; then
+#	perl -MPOSIX -e 'print strftime "%F %T", gmtime({query}/1000)'
+#else
+#	perl -MPOSIX -e 'print strftime "%F %T", gmtime({query})'
+#fi;
+	
+
+
+# perl -MPOSIX -le 'print strftime "%F %T", localtime({query})'
+
+t={query}
+
+
+if [ "{query}" -gt 1400000000000 ]; then
+	perl -MPOSIX -e 'print strftime "%F %T", gmtime({query}/1000)'
+elif [ "{query}" -gt 1400000000 ]; then
+	perl -MPOSIX -e 'print strftime "%F %T", gmtime({query})'
+else
+	# LOST专用,GCallWay
+	c=$(( $t%10000 ))
+	
+	path=/Users/highfly029/Documents/work/lost/Server/Source/Code/develop/server/project/base/src/main/java/com/home/base/constlist/generate/GCallWayType.java
+ 	
+	grep -B 1 "=$c;" $path | /usr/local/bin/gsed -n '1{ s:[^*]*\*\*\([^*]*\) \*/:\1:p} ; 2{s:.* \(\w*\)=.*:\1:p}; ' | tr '\n' '\t'
+
+fi;</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>6B44BC24-FEE0-4F76-ADCE-EF27ECEC1EC6</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>2</integer>
+				<key>matchstring</key>
+				<string>^\d+$</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>AE3CACE6-2E4E-4449-AF02-43656F869CA3</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>o</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>53E03C06-3699-4FFF-B9C6-68196914F745</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string></string>
+	<key>uidata</key>
+	<dict>
+		<key>099ABCF5-CA62-4B94-AF8E-022F05B6C9F2</key>
+		<dict>
+			<key>xpos</key>
+			<integer>880</integer>
+			<key>ypos</key>
+			<integer>480</integer>
+		</dict>
+		<key>10187A93-0E5C-4FB7-80A5-24B1B73F39C1</key>
+		<dict>
+			<key>xpos</key>
+			<integer>640</integer>
+			<key>ypos</key>
+			<integer>410</integer>
+		</dict>
+		<key>15299C7A-CDEA-4359-8898-446F2892DB7C</key>
+		<dict>
+			<key>xpos</key>
+			<integer>60</integer>
+			<key>ypos</key>
+			<integer>80</integer>
+		</dict>
+		<key>16E5B66E-CC11-4645-9025-B8525A4C939C</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1160</integer>
+			<key>ypos</key>
+			<integer>130</integer>
+		</dict>
+		<key>17DCAB4E-82BB-4E33-9189-F40C42439AF1</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1160</integer>
+			<key>ypos</key>
+			<integer>260</integer>
+		</dict>
+		<key>1B9ADF25-C929-414A-AAB0-4000908CF283</key>
+		<dict>
+			<key>xpos</key>
+			<integer>410</integer>
+			<key>ypos</key>
+			<integer>570</integer>
+		</dict>
+		<key>247104A2-D244-400B-8BDE-60D78BEBC90A</key>
+		<dict>
+			<key>xpos</key>
+			<integer>940</integer>
+			<key>ypos</key>
+			<integer>80</integer>
+		</dict>
+		<key>37BE401D-6863-40A5-A60A-3994CC9C7F14</key>
+		<dict>
+			<key>xpos</key>
+			<integer>930</integer>
+			<key>ypos</key>
+			<integer>450</integer>
+		</dict>
+		<key>539C8B1B-37EA-4B45-9161-F6B9BD379C91</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>730</integer>
+			<key>ypos</key>
+			<integer>260</integer>
+		</dict>
+		<key>53E03C06-3699-4FFF-B9C6-68196914F745</key>
+		<dict>
+			<key>xpos</key>
+			<integer>180</integer>
+			<key>ypos</key>
+			<integer>600</integer>
+		</dict>
+		<key>550EFE6F-6399-4211-B71C-12365F1C3B39</key>
+		<dict>
+			<key>xpos</key>
+			<integer>210</integer>
+			<key>ypos</key>
+			<integer>440</integer>
+		</dict>
+		<key>6B44BC24-FEE0-4F76-ADCE-EF27ECEC1EC6</key>
+		<dict>
+			<key>xpos</key>
+			<integer>250</integer>
+			<key>ypos</key>
+			<integer>570</integer>
+		</dict>
+		<key>7A716CDA-8D78-48D9-B264-1048A29AA364</key>
+		<dict>
+			<key>xpos</key>
+			<integer>260</integer>
+			<key>ypos</key>
+			<integer>340</integer>
+		</dict>
+		<key>81D5AF64-844C-44F2-BB7C-ADB65180EAC7</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>10</integer>
+			<key>ypos</key>
+			<integer>410</integer>
+		</dict>
+		<key>A27AB79E-4725-4D1C-B3DA-6FF9A9E4B8D0</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1160</integer>
+			<key>ypos</key>
+			<integer>450</integer>
+		</dict>
+		<key>A70A4E1E-712E-4575-967A-0AA64960904D</key>
+		<dict>
+			<key>xpos</key>
+			<integer>490</integer>
+			<key>ypos</key>
+			<integer>10</integer>
+		</dict>
+		<key>AE3CACE6-2E4E-4449-AF02-43656F869CA3</key>
+		<dict>
+			<key>xpos</key>
+			<integer>80</integer>
+			<key>ypos</key>
+			<integer>600</integer>
+		</dict>
+		<key>B80E029A-EA37-44EF-A836-5697FEB00379</key>
+		<dict>
+			<key>xpos</key>
+			<integer>490</integer>
+			<key>ypos</key>
+			<integer>130</integer>
+		</dict>
+		<key>C8B62F87-E420-45F1-8CC3-50D4090047F5</key>
+		<dict>
+			<key>xpos</key>
+			<integer>480</integer>
+			<key>ypos</key>
+			<integer>320</integer>
+		</dict>
+		<key>F2367638-714F-4325-AA06-3343A8D274F8</key>
+		<dict>
+			<key>xpos</key>
+			<integer>270</integer>
+			<key>ypos</key>
+			<integer>80</integer>
+		</dict>
+		<key>F2CD977D-22DB-453B-990B-D7A18E9938EC</key>
+		<dict>
+			<key>xpos</key>
+			<integer>730</integer>
+			<key>ypos</key>
+			<integer>80</integer>
+		</dict>
+		<key>F7D0F99A-DC93-4A97-ADD1-76AC62D113DB</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1160</integer>
+			<key>ypos</key>
+			<integer>10</integer>
+		</dict>
+		<key>F8B910A9-21CB-46AB-BE0B-E2FF689F44EF</key>
+		<dict>
+			<key>xpos</key>
+			<integer>890</integer>
+			<key>ypos</key>
+			<integer>260</integer>
+		</dict>
+		<key>FF316160-82F1-4AC1-8D82-72A1F0AC9ED6</key>
+		<dict>
+			<key>xpos</key>
+			<integer>320</integer>
+			<key>ypos</key>
+			<integer>410</integer>
+		</dict>
+	</dict>
+	<key>webaddress</key>
+	<string></string>
+</dict>
+</plist>

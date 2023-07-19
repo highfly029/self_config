@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "ssh -i ~\/.lost\/liyunpeng-jumpserver.pem liyunpeng@vf-jumpserver-koko-jp.super-chameleon.com -p 2222\n",
+    "uid" : "D8698807-E35A-4225-B934-EA1BC6DCDC65",
+    "name" : "jumpServer",
+    "keyword" : ""
+  }
+}

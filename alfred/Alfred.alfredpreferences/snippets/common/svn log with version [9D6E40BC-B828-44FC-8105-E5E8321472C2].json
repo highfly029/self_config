@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "svn log --verbose -r 23732",
+    "uid" : "9D6E40BC-B828-44FC-8105-E5E8321472C2",
+    "name" : "svn log with version",
+    "keyword" : ""
+  }
+}

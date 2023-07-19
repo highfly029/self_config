@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "scp -ri \/Users\/highfly029\/Documents\/work\/ssh\/superchameleon-as.pem ec2-user@13.213.237.132:\/tmp\/test.py .",
+    "uid" : "93813775-C805-4122-A4B1-D843A1CDC723",
+    "name" : "myscp",
+    "keyword" : ""
+  }
+}

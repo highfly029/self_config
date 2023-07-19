@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "ognl '@com.highfly029.core.tool.WorldTool@getInstance().globalWorld.loadBalanceSceneManager'",
+    "uid" : "EFBDCA3C-0D32-4B3F-B8EE-2007D7064B3E",
+    "name" : "ognl_loadbalance",
+    "keyword" : ""
+  }
+}

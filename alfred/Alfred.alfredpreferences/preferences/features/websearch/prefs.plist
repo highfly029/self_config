@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSites</key>
+	<dict>
+		<key>28351C69-1138-4B9B-B3CC-556AE0ECBC6D</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>lcs</string>
+			<key>text</key>
+			<string>linux-command search</string>
+			<key>url</key>
+			<string>https://wangchujiang.com/linux-command/list.html#!kw={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>48FD5635-4BE6-4506-91E8-C885E069D796</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>mvn</string>
+			<key>text</key>
+			<string>maven search</string>
+			<key>url</key>
+			<string>https://mvnrepository.com/search?q={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>7193D060-2470-4A0F-84B0-45A175C35CFD</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>lc</string>
+			<key>text</key>
+			<string>linux-command</string>
+			<key>url</key>
+			<string>https://wangchujiang.com/linux-command/c/{query}.html</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>85376AC3-3121-45C3-A88E-0C72D62FB008</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>jira</string>
+			<key>text</key>
+			<string>lost - jira</string>
+			<key>url</key>
+			<string>http://jira.super-chameleon.com:8090/browse/{query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>A18413AB-BEF3-4668-8C4A-4446698BEA5C</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>bd</string>
+			<key>text</key>
+			<string>Search www.baidu.com for '{query}'</string>
+			<key>url</key>
+			<string>https://www.baidu.com/s?wd={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
